@@ -1,2 +1,4 @@
 /.zed_server
 /.venv
+
+**/.ipynb_checkpoints
