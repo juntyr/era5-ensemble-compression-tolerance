@@ -29,7 +29,7 @@ u:
  - 850.0 hPa: BitInformationBounds(percentile=[1.0, 0.99, 0.95], keepbits=[33, 11, 10], linquant_absolute=[3.188401478837477e-06, 13.373125076293945, 26.74625015258789], bitround_relative=[2.9802322387695312e-08, 0.125, 0.25])
  - 1000.0 hPa: BitInformationBounds(percentile=[1.0, 0.99, 0.95], keepbits=[19, 11, 10], linquant_absolute=[0.03191482275724411, 8.170194625854492, 16.340389251708984], bitround_relative=[0.00048828125, 0.125, 0.25])
 v:
- - 50.0 hPa: BitInformationBounds(percentile=[1.0, 0.99, 0.95], keepbits=[18, 11, 10], linquant_absolute=[0.11150945723056793, 14.273210525512695, 28.54642105102539], bitround_relative=[0.0009765625, 0.125, 0.25])
+ - 50.0 hPa: BitInformationBounds(percentile=[1.0, 0.99, 0.95], keepbits=[0, 0, 0], linquant_absolute=[nan, nan, nan], bitround_relative=[nan, nan, nan])
  - 500.0 hPa: BitInformationBounds(percentile=[1.0, 0.99, 0.95], keepbits=[33, 11, 9], linquant_absolute=[3.6468163671088405e-06, 15.295856475830078, 61.18342590332031], bitround_relative=[2.9802322387695312e-08, 0.125, 0.5])
  - 850.0 hPa: BitInformationBounds(percentile=[1.0, 0.99, 0.95], keepbits=[18, 10, 9], linquant_absolute=[0.09887158870697021, 25.311126708984375, 50.62225341796875], bitround_relative=[0.0009765625, 0.25, 0.5])
  - 1000.0 hPa: BitInformationBounds(percentile=[1.0, 0.99, 0.95], keepbits=[19, 11, 9], linquant_absolute=[0.02908226102590561, 7.445058822631836, 29.780235290527344], bitround_relative=[0.00048828125, 0.125, 0.5])
