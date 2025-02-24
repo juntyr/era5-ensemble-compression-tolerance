@@ -1,0 +1,17 @@
+Field Name	Short Name	grib paramID	Unit	Level	Minimum value	Maximum value	Existing L1 error
+Potential vorticity	pv	60	K m**2 kg**-1 s**-1	Pressure	-0.00028479728	0.00017763405	7.056142337091842e-09
+Specific rain water content	crwc	75	kg kg**-1	Pressure	0.0	0.001519829	2.319075065315701e-08
+Specific snow water content	cswc	76	kg kg**-1	Pressure	0.0	0.0042871237	6.541631591971964e-08
+Geopotential	z	129	m**2 s**-2	Pressure	-5969.504	208893.06	3.2785425186157227
+Temperature	t	130	K	Pressure	179.20174	325.61295	0.002234057756140828
+U component of wind	u	131	m s**-1	Pressure	-62.229965	91.23659	0.0023417137563228607
+V component of wind	v	132	m s**-1	Pressure	-67.543396	69.395035	0.0020895146299153566
+Specific humidity	q	133	kg kg**-1	Pressure	-2.2094682e-05	0.030683426	4.6852906621097645e-07
+Vertical velocity	w	135	Pa s**-1	Pressure	-7.017746	8.326787	0.00023413899180013686
+Vorticity (relative)	vo	138	s**-1	Pressure	-0.00080912816	0.0012993631	3.2173023356563135e-08
+Divergence	d	155	s**-1	Pressure	-0.00042861514	0.00043540553	1.318390907556477e-08
+Relative humidity	r	157	%	Pressure	-5.4819574	160.14786	0.002527310512959957
+Ozone mass mixing ratio	o3	203	kg kg**-1	Pressure	-3.0346343e-09	8.376514e-06	1.278617767219714e-10
+Specific cloud liquid water content	clwc	246	kg kg**-1	Pressure	0.0	0.0029973984	7.317867130041122e-07
+Specific cloud ice water content	ciwc	247	kg kg**-1	Pressure	0.0	0.0005021095	1.2258533388376236e-07
+Fraction of cloud cover	cc	248	dimensionless	Pressure	0.0	1.0	0.00390625

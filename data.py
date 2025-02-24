@@ -16,42 +16,36 @@ class UncertainDataset:
 
 def _load_single_dataset() -> UncertainDataset:
     subfolder = "single_data"
-    month_ranges = ["01_02", "03_04"] # , "05_06", "07_08", "09_10", "11_12"
+    month_ranges = ["01_02", "03_04", "05_06", "07_08", "09_10", "11_12"]
+    file_patterns = {
+        "depth_mean": "data_months{0}_0.nc",
+        "depth_spread": "data_months{0}_1.nc",
+        "height_mean": "data_months{0}_2.nc",
+        "height_spread": "data_months{0}_3.nc",
+        "sea_mean": "data_months{0}_4.nc",
+        "sea_spread": "data_months{0}_5.nc",
+        "surface_mean": "data_months{0}_6.nc",
+        "surface_spread": "data_months{0}_7.nc"
+    }
 
-    ds_mean_list = []
-    ds_spread_list = []
-
+    ds_single_mean_list, ds_single_spread_list = [], []
     for months in month_ranges:
-        ds_depth_mean = xr.open_dataset(data / subfolder / f"data_months{months}_0.nc", chunks={})
-        ds_depth_spread = xr.open_dataset(data / subfolder / f"data_months{months}_1.nc", chunks={})
-        ds_height_mean = xr.open_dataset(data / subfolder / f"data_months{months}_2.nc", chunks={})
-        ds_height_spread = xr.open_dataset(data / subfolder / f"data_months{months}_3.nc", chunks={})
-        ds_sea_mean = xr.open_dataset(data / subfolder / f"data_months{months}_4.nc", chunks={})
-        ds_sea_spread = xr.open_dataset(data / subfolder / f"data_months{months}_5.nc", chunks={})
-        ds_surface_mean = xr.open_dataset(data / subfolder / f"data_months{months}_6.nc", chunks={})
-        ds_surface_spread = xr.open_dataset(data / subfolder / f"data_months{months}_7.nc", chunks={})
+        ds_single_mean = xr.open_mfdataset(
+            [Path(data) / subfolder / file_patterns[var].format(months) for var in ["depth_mean", "height_mean", "sea_mean", "surface_mean"]],
+            combine='by_coords', chunks={},compat='override')
+        
+        ds_single_spread = xr.open_mfdataset(
+            [Path(data) / subfolder / file_patterns[var].format(months) for var in ["depth_spread", "height_spread", "sea_spread", "surface_spread"]],
+            combine='by_coords', chunks={},compat='override')
 
-        ds_single_mean = xr.Dataset({
-            **ds_depth_mean,
-            **ds_height_mean,
-            **ds_sea_mean,
-            **ds_surface_mean,
-        })
+        ds_single_mean_list.append(ds_single_mean)
+        ds_single_spread_list.append(ds_single_spread)
 
-        ds_single_spread = xr.Dataset({
-            **ds_depth_spread,
-            **ds_height_spread,
-            **ds_sea_spread,
-            **ds_surface_spread,
-        })
-
-        ds_mean_list.append(ds_single_mean)
-        ds_spread_list.append(ds_single_spread)
-
-    ds_single_mean = xr.concat(ds_mean_list, dim="valid_time")
-    ds_single_spread = xr.concat(ds_spread_list, dim="valid_time")
+    ds_single_mean = xr.concat(ds_single_mean_list, dim="valid_time")
+    ds_single_spread = xr.concat(ds_single_spread_list, dim="valid_time")
 
     return UncertainDataset(mean=ds_single_mean, spread=ds_single_spread)
+
 
 ds_single = _load_single_dataset()
 

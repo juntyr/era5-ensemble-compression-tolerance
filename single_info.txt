@@ -1,0 +1,227 @@
+Field Name	Short Name	grib paramID	Unit	Level	Minimum value	Maximum value	Existing L1 error
+Surface runoff	sro	8	m	Single/Surface	0.0	0.040673256	6.206246325746179e-07
+Sub-surface runoff	ssro	9	m	Single/Surface	0.0	0.0268569	4.098037607036531e-07
+UV visible albedo for direct radiation (climatological)	aluvp	15	dimensionless	Single/Surface	0.011121053	0.91759235	1.3831654541718308e-05
+UV visible albedo for diffuse radiation (climatological)	aluvd	16	dimensionless	Single/Surface	0.012219813	0.9175915	1.3814876183460001e-05
+Near IR albedo for direct radiation (climatological)	alnip	17	dimensionless	Single/Surface	0.059094552	0.66608745	9.261976629204582e-06
+Near IR albedo for diffuse radiation (climatological)	alnid	18	dimensionless	Single/Surface	0.059999995	0.6812921	9.48016531765461e-06
+Lake cover	cl	26	dimensionless	Single/Surface	0.0	1.0	5.960464477539063e-08
+Low vegetation cover	cvl	27	dimensionless	Single/Surface	0.0	1.0	5.960464477539063e-08
+High vegetation cover	cvh	28	dimensionless	Single/Surface	0.0	1.0	5.960464477539063e-08
+Type of low vegetation	tvl	29	(Code table 4.234)	Single/Surface	0.0	17.0	0.0002593994140625
+Type of high vegetation	tvh	30	(Code table 4.234)	Single/Surface	0.0	19.0	0.0002899169921875
+Sea ice area fraction	ci	31	dimensionless	Single/Surface	0.0	1.0	1.52587890625e-05
+Snow albedo	asn	32	dimensionless	Single/Surface	0.5199999	0.8800079	5.493286153068766e-06
+Snow density	rsn	33	kg m**-3	Single/Surface	99.999985	450.0	0.005340576171875
+Sea surface temperature	sst	34	K	Single/Surface	267.95508	311.38647	0.0006627105176448822
+Soil type	slt	43	(Code table 4.213)	Single/Surface	0.0	7.0	4.172325134277344e-07
+Snow evaporation	es	44	m of water equivalent	Single/Surface	-0.0006759828	0.00046391226	1.7393418261235638e-08
+Snowmelt	smlt	45	m of water equivalent	Single/Surface	0.0	0.014152765	2.1595405996777117e-07
+Maximum 10 metre wind gust since previous post-processing	10fg	49	m s**-1	Single/Surface	0.41986078	54.995937	0.0008327648392878473
+Large-scale precipitation fraction	lspf	50	s	Single/Surface	0.0	10800.0	0.164794921875
+Surface downward UV radiation	uvb	57	J m**-2	Single/Surface	0.0	1626784.0	24.82275390625
+Convective available potential energy	cape	59	J kg**-1	Single/Surface	0.0	12867.5	0.19634246826171875
+Leaf area index, low vegetation	lai_lv	66	m**2 m**-2	Single/Surface	0.0	4.6418457	7.082894444465637e-05
+Leaf area index, high vegetation	lai_hv	67	m**2 m**-2	Single/Surface	0.0	6.9730225	0.00010639987885951996
+Standard deviation of filtered subgrid orography (climatological)	sdfor	74	m	Single/Surface	0.0	624.2425	3.7207752029644325e-05
+Total column cloud liquid water	tclw	78	kg m**-2	Single/Surface	0.0	2.956787	4.511699080467224e-05
+Total column cloud ice water	tciw	79	kg m**-2	Single/Surface	0.0	1.9159546	2.9235146939754486e-05
+Geopotential	z	129	m**2 s**-2	Single/Surface	-1641.3057	53883.785	0.0033095532562583685
+Surface pressure	sp	134	Pa	Single/Surface	50471.63	105994.32	0.8472090363502502
+Total column water	tcw	136	kg m**-2	Single/Surface	0.065148175	101.19361	0.001543097896501422
+Total column vertically-integrated water vapour	tcwv	137	kg m**-2	Single/Surface	0.065148175	89.08228	0.0013582936953753233
+Snow depth	sd	141	m of water equivalent	Single/Surface	0.0	10.0	5.960464477539062e-07
+Large-scale precipitation	lsp	142	m	Single/Surface	0.0	0.050883293	7.764174370095134e-07
+Convective precipitation	cp	143	m	Single/Surface	0.0	0.035523415	5.420442903414369e-07
+Snowfall	sf	144	m of water equivalent	Single/Surface	0.0	0.015250921	2.327105903532356e-07
+Time-integrated boundary layer dissipation	bld	145	J m**-2	Single/Surface	7.0979776	5843611.0	89.16632080078125
+Time-integrated surface sensible heat net flux	sshf	146	J m**-2	Single/Surface	-9014216.0	4343472.0	203.8221435546875
+Time-integrated surface latent heat net flux	slhf	147	J m**-2	Single/Surface	-12757454.0	2789919.0	237.2340850830078
+Charnock	chnk	148	Numeric	Single/Surface	0.0075299256	0.09239451	1.2949308256793302e-06
+Mean sea level pressure	msl	151	Pa	Single/Surface	92725.56	106307.375	0.20724201202392578
+Boundary layer height	blh	159	m	Single/Surface	7.399293	6199.293	0.09448079764842987
+Standard deviation of sub-gridscale orography	sdor	160	m	Single/Surface	0.0	1033.3016	6.158957694424316e-05
+Anisotropy of sub-gridscale orography	isor	161	Numeric	Single/Surface	0.0	0.9807435	5.845686956718055e-08
+Angle of sub-gridscale orography	anor	162	radians	Single/Surface	-1.5593841	1.5629416	1.8610511176575528e-07
+Slope of sub-gridscale orography	slor	163	Numeric	Single/Surface	9.9999976e-05	0.1350887	8.045953237001413e-09
+Total cloud cover	tcc	164	dimensionless	Single/Surface	0.0	1.0	1.52587890625e-05
+10 metre U wind component	10u	165	m s**-1	Single/Surface	-35.57274	29.245392	0.0009890461806207895
+10 metre V wind component	10v	166	m s**-1	Single/Surface	-30.720917	33.44426	0.0009790828917175531
+2 metre temperature	2t	167	K	Single/Surface	198.04323	324.60345	0.0019311557989567518
+2 metre dewpoint temperature	2d	168	K	Single/Surface	194.528	305.39026	0.0016916238237172365
+Surface short-wave (solar) radiation downwards	ssrd	169	J m**-2	Single/Surface	0.0	13807872.0	210.69140625
+Land-sea mask	lsm	172	dimensionless	Single/Surface	0.0	1.0	5.960464477539063e-08
+Surface long-wave (thermal) radiation downwards	strd	175	J m**-2	Single/Surface	529710.56	5709221.5	79.03306579589844
+Surface net short-wave (solar) radiation	ssr	176	J m**-2	Single/Surface	1.0799999e-11	11775744.0	179.68359375
+Surface net long-wave (thermal) radiation	str	177	J m**-2	Single/Surface	-4739560.0	739601.0	83.60536193847656
+Top net short-wave (solar) radiation	tsr	178	J m**-2	Single/Surface	0.0	14224384.0	217.046875
+Top net long-wave (thermal) radiation	ttr	179	J m**-2	Single/Surface	-4492495.0	-813580.0	56.13578796386719
+Time-integrated eastward turbulent surface stress	ewss	180	N m**-2 s	Single/Surface	-145328.5	98530.336	3.7209906578063965
+Time-integrated northward turbulent surface stress	nsss	181	N m**-2 s	Single/Surface	-98271.81	88200.69	2.8453445434570312
+Evaporation	e	182	m of water equivalent	Single/Surface	-0.0051013567	0.0011155764	9.486286955961987e-08
+Low cloud cover	lcc	186	dimensionless	Single/Surface	0.0	1.0	1.52587890625e-05
+Medium cloud cover	mcc	187	dimensionless	Single/Surface	0.0	1.0	1.52587890625e-05
+High cloud cover	hcc	188	dimensionless	Single/Surface	0.0	1.0	1.52587890625e-05
+Eastward gravity wave surface stress	lgws	195	N m**-2 s	Single/Surface	-94455.5	128995.21	3.4095873832702637
+Northward gravity wave surface stress	mgws	196	N m**-2 s	Single/Surface	-131455.62	135554.84	4.074256420135498
+Gravity wave dissipation	gwd	197	J m**-2	Single/Surface	-1996.469	2915707.8	44.520633697509766
+Skin reservoir content	src	198	m of water equivalent	Single/Surface	-2.7755579e-21	0.0011899769	1.8157606973545626e-08
+Maximum temperature at 2 metres since previous post-processing	mx2t	201	K	Single/Surface	199.34102	324.73157	0.0019133079331368208
+Minimum temperature at 2 metres since previous post-processing	mn2t	202	K	Single/Surface	199.18436	324.6175	0.0019139577634632587
+Runoff	ro	205	m	Single/Surface	0.0	0.053337097	8.138595148921013e-07
+Total column ozone	tco3	206	kg m**-2	Single/Surface	0.0026929623	0.012685288	1.524707897715416e-07
+Top net short-wave (solar) radiation, clear sky	tsrc	208	J m**-2	Single/Surface	0.0	14047232.0	214.34375
+Top net long-wave (thermal) radiation, clear sky	ttrc	209	J m**-2	Single/Surface	-4431609.0	-1013443.0	52.157073974609375
+Surface net short-wave (solar) radiation, clear sky	ssrc	210	J m**-2	Single/Surface	0.0	11730432.0	178.9921875
+Surface net long-wave (thermal) radiation, clear sky	strc	211	J m**-2	Single/Surface	-4597057.0	399221.0	76.23715209960938
+TOA incident short-wave (solar) radiation	tisr	212	J m**-2	Single/Surface	0.0	14874880.0	226.97265625
+Vertically integrated moisture divergence	vimd	213	kg m**-2	Single/Surface	-89.64993	38.31877	0.001952647464349866
+Total precipitation	tp	228	m	Single/Surface	0.0	0.058294296	8.895003702491522e-07
+Instantaneous eastward turbulent surface stress	iews	229	N m**-2	Single/Surface	-12.641745	9.264997	0.00033427035668864846
+Instantaneous northward turbulent surface stress	inss	230	N m**-2	Single/Surface	-8.780683	9.028752	0.0002717504103202373
+Instantaneous surface sensible heat net flux	ishf	231	W m**-2	Single/Surface	-755.95483	429.8999	0.018094707280397415
+Instantaneous moisture flux	ie	232	kg m**-2 s**-1	Single/Surface	-0.00042742398	0.00016970992	9.11153996696612e-09
+Skin temperature	skt	235	K	Single/Surface	195.50932	343.44434	0.002257309155538678
+Temperature of snow layer	tsn	238	K	Single/Surface	198.55476	308.8557	0.0016830589156597853
+Convective snowfall	csf	239	m of water equivalent	Single/Surface	0.0	0.009302139	1.4193938113749027e-07
+Large-scale snowfall	lsf	240	m of water equivalent	Single/Surface	0.0	0.015250921	2.327105903532356e-07
+Forecast albedo	fal	243	dimensionless	Single/Surface	0.049640384	0.8779686	1.2639286069315858e-05
+Forecast surface roughness	fsr	244	m	Single/Surface	2.4328765e-05	1.9848	1.1830184831751467e-07
+Forecast logarithm of surface roughness for heat	flsr	245	Numeric	Single/Surface	-12.180499	0.6854992	0.00019631955365184695
+Convective inhibition	cin	228001	J kg**-1	Single/Surface	1.4166922e-08	1000.0008	0.01525880116969347
+Friction velocity	zust	228003	m s**-1	Single/Surface	0.0032943622	2.359058	3.594609734136611e-05
+Lake total depth	dl	228007	m	Single/Surface	0.49999994	8032.337	0.00047873478615656495
+Lake mix-layer temperature	lmlt	228008	K	Single/Surface	273.14966	312.5061	0.0006005316972732544
+Lake mix-layer depth	lmld	228009	m	Single/Surface	-7.105431e-15	50.0	0.000762939453125
+Lake bottom temperature	lblt	228010	K	Single/Surface	273.15967	308.8501	0.0005445927381515503
+Lake total layer temperature	ltlt	228011	K	Single/Surface	273.15967	308.8501	0.0005445927381515503
+Lake shape factor	lshf	228012	dimensionless	Single/Surface	0.5656386	0.80000216	3.576104063540697e-06
+Lake ice surface temperature	lict	228013	K	Single/Surface	197.45952	273.16208	0.0011551294010132551
+Lake ice total depth	licd	228014	m	Single/Surface	-2.4123508e-19	2.9902344	4.5627355575561523e-05
+Minimum vertical gradient of refractivity inside trapping layer	dndzn	228015	m**-1	Single/Surface	-1.000001	5.016967	9.18116420507431e-05
+Mean vertical gradient of refractivity inside trapping layer	dndza	228016	m**-1	Single/Surface	-1.000001	2.4447622	5.256291478872299e-05
+Duct base height	dctb	228017	m	Single/Surface	-1.000001	2203.1875	0.03363323211669922
+Trapping layer base height	tplb	228018	m	Single/Surface	-1.000001	2289.6875	0.03495311737060547
+Trapping layer top height	tplt	228019	m	Single/Surface	-1.000001	2487.1875	0.03796672821044922
+Surface direct short-wave (solar) radiation	fdir	228021	J m**-2	Single/Surface	0.0	13122560.0	200.234375
+Surface direct short-wave radiation, clear sky	cdir	228022	J m**-2	Single/Surface	0.0	12769280.0	194.84375
+Cloud base height	cbh	228023	m	Single/Surface	21.805069	17760.72	0.27067437767982483
+0 degrees C isothermal level (atm)	deg0l	228024	m	Single/Surface	0.0	6815.875	0.10400199890136719
+Instantaneous 10 metre wind gust	i10fg	228029	m s**-1	Single/Surface	0.30877757	52.88197	0.0008022032561711967
+Total column supercooled liquid water	tcslw	228088	kg m**-2	Single/Surface	0.0	1.4591064	2.226419746875763e-05
+Total column rain water	tcrw	228089	kg m**-2	Single/Surface	0.0	6.3325195	9.662657976150513e-05
+Total column snow water	tcsw	228090	kg m**-2	Single/Surface	0.0	15.666992	0.00023905932903289795
+Surface short-wave (solar) radiation downward clear-sky	ssrdc	228129	J m**-2	Single/Surface	0.0	13626112.0	207.91796875
+Surface long-wave (thermal) radiation downward clear-sky	strdc	228130	J m**-2	Single/Surface	519817.06	5706949.0	79.14935302734375
+10 metre u-component of neutral wind	u10n	228131	m s**-1	Single/Surface	-35.526276	29.296982	0.0009891244117170572
+10 metre v-component of neutral wind	v10n	228132	m s**-1	Single/Surface	-30.75679	33.482727	0.0009802172426134348
+Instantaneous large-scale precipitation fraction	ilspf	228217	Proportion	Single/Surface	0.0	1.0	1.52587890625e-05
+Convective rain rate	crr	228218	kg m**-2 s**-1	Single/Surface	0.0	0.004797101	7.319795258808881e-08
+Large scale rain rate	lsrr	228219	kg m**-2 s**-1	Single/Surface	0.0	0.0059996843	9.154791769105941e-08
+Convective snowfall rate water equivalent	csfr	228220	kg m**-2 s**-1	Single/Surface	0.0	0.0009200573	1.403896021656692e-08
+Large scale snowfall rate water equivalent	lssfr	228221	kg m**-2 s**-1	Single/Surface	0.0	0.0015558004	2.3739630705676973e-08
+Maximum total precipitation rate since previous post-processing	mxtpr	228226	kg m**-2 s**-1	Single/Surface	0.0	0.0070943832	1.0825169738382101e-07
+Minimum total precipitation rate since previous post-processing	mntpr	228227	kg m**-2 s**-1	Single/Surface	0.0	0.0060921907	9.2959453468211e-08
+100 metre U wind component	100u	228246	m s**-1	Single/Surface	-45.964752	39.560516	0.0013050120323896408
+100 metre V wind component	100v	228247	m s**-1	Single/Surface	-41.978714	45.65535	0.001337189693003893
+Potential evaporation	pev	228251	m	Single/Surface	-0.005537186	0.0004110483	9.076285323317279e-08
+Time-mean surface runoff rate	avg_surfror	235020	kg m**-2 s**-1	Single/Surface	0.0	0.0037660003	5.7464603742118925e-08
+Time-mean sub-surface runoff rate	avg_ssurfror	235021	kg m**-2 s**-1	Single/Surface	0.0	0.0024867654	3.794502845266834e-08
+Time-mean snow evaporation rate water equivalent	avg_esrwe	235023	kg m**-2 s**-1	Single/Surface	-6.2590785e-05	4.2954052e-05	1.6104864108967831e-09
+Time-mean snow melt rate	avg_smr	235024	kg m**-2 s**-1	Single/Surface	0.0	0.0013104677	1.99961505131796e-08
+Time-mean large-scale precipitation fraction	avg_ilspf	235026	Proportion	Single/Surface	0.0	1.0	1.52587890625e-05
+Time-mean surface downward UV radiation flux	avg_sduvrf	235027	W m**-2	Single/Surface	0.0	150.6289	0.002298414707183838
+Time-mean large-scale precipitation rate	avg_lsprate	235029	kg m**-2 s**-1	Single/Surface	0.0	0.0047112703	7.18882802175358e-08
+Time-mean convective precipitation rate	avg_cpr	235030	kg m**-2 s**-1	Single/Surface	0.0	0.0032892227	5.018955562263727e-08
+Time-mean total snowfall rate water equivalent	avg_tsrwe	235031	kg m**-2 s**-1	Single/Surface	0.0	0.0014121234	2.154729372705333e-08
+Time-mean boundary layer dissipation	avg_ibld	235032	W m**-2	Single/Surface	0.00068298145	541.065	0.008255986496806145
+Time-mean surface sensible heat flux	avg_ishf	235033	W m**-2	Single/Surface	-834.6482	402.1775	0.018872462213039398
+Time-mean surface latent heat flux	avg_slhtf	235034	W m**-2	Single/Surface	-1181.2463	258.31226	0.02196592092514038
+Time-mean surface downward short-wave radiation flux	avg_sdswrf	235035	W m**-2	Single/Surface	0.0	1278.5	0.01950836181640625
+Time-mean surface downward long-wave radiation flux	avg_sdlwrf	235036	W m**-2	Single/Surface	49.048218	528.6343	0.007317902520298958
+Time-mean surface net short-wave radiation flux	avg_snswrf	235037	W m**-2	Single/Surface	9.999997e-16	1090.3438	0.016637325286865234
+Time-mean surface net long-wave radiation flux	avg_snlwrf	235038	W m**-2	Single/Surface	-438.84912	68.48364	0.007741283625364304
+Time-mean top net short-wave radiation flux	avg_tnswrf	235039	W m**-2	Single/Surface	0.0	1317.0938	0.02009725570678711
+Time-mean top net long-wave radiation flux	avg_tnlwrf	235040	W m**-2	Single/Surface	-415.9712	-75.33008	0.005197770893573761
+Time-mean eastward turbulent surface stress	avg_iews	235041	N m**-2	Single/Surface	-13.456354	9.1230955	0.0003445350448600948
+Time-mean northward turbulent surface stress	avg_inss	235042	N m**-2	Single/Surface	-9.099227	8.166232	0.0002634499978739768
+Time-mean moisture flux	avg_ie	235043	kg m**-2 s**-1	Single/Surface	-0.00047234795	0.00010329019	8.783541005641382e-09
+Time-mean eastward gravity wave surface stress	avg_iegwss	235045	N m**-2	Single/Surface	-8.745907	11.944297	0.0003157074679620564
+Time-mean northward gravity wave surface stress	avg_ingwss	235046	N m**-2	Single/Surface	-12.171822	12.55106	0.00037724123103544116
+Time-mean gravity wave dissipation	avg_igwd	235047	W m**-2	Single/Surface	-0.1849078	269.9758	0.0041223252192139626
+Time-mean runoff rate water equivalent (surface plus subsurface)	avg_rorwe	235048	kg m**-2 s**-1	Single/Surface	0.0	0.0049386024	7.535709301009774e-08
+Time-mean top net short-wave radiation flux, clear sky	avg_tnswrfcs	235049	W m**-2	Single/Surface	0.0	1300.6875	0.01984691619873047
+Time-mean top net long-wave radiation flux, clear sky	avg_tnlwrfcs	235050	W m**-2	Single/Surface	-410.3352	-93.833984	0.004829425364732742
+Time-mean surface net short-wave radiation flux, clear sky	avg_snswrfcs	235051	W m**-2	Single/Surface	0.0	1086.1562	0.016573429107666016
+Time-mean surface net long-wave radiation flux, clear sky	avg_snlwrfcs	235052	W m**-2	Single/Surface	-425.64917	36.967926	0.00705897668376565
+Time mean top downward short-wave radiation flux	avg_tdswrf	235053	W m**-2	Single/Surface	0.0	1377.3125	0.02101612091064453
+Time-mean total column vertically-integrated moisture divergence flux	avg_vimdf	235054	kg m**-2 s**-1	Single/Surface	-0.008300897	0.0035479628	1.8079924757330446e-07
+Time-mean total precipitation rate	avg_tprate	235055	kg m**-2 s**-1	Single/Surface	0.0	0.0053976774	8.236202120315284e-08
+Time-mean convective snowfall rate water equivalent	avg_csfr	235056	kg m**-2 s**-1	Single/Surface	0.0	0.0008613169	1.31426531879697e-08
+Time-mean large scale snowfall rate water equivalent	avg_lssfr	235057	kg m**-2 s**-1	Single/Surface	0.0	0.0014121234	2.154729372705333e-08
+Time-mean surface direct short-wave radiation flux	avg_sdirswrf	235058	W m**-2	Single/Surface	0.0	1215.0312	0.018539905548095703
+Time-mean surface direct short-wave radiation flux, clear sky	avg_sdirswrfcs	235059	W m**-2	Single/Surface	0.0	1182.3438	0.018041133880615234
+Time-mean surface downward short-wave radiation flux, clear sky	avg_sdswrfcs	235068	W m**-2	Single/Surface	0.0	1261.6875	0.01925182342529297
+Time-mean surface downward long-wave radiation flux, clear sky	avg_sdlwrfcs	235069	W m**-2	Single/Surface	48.131348	528.412	0.007328500971198082
+Time-mean potential evaporation rate	avg_pevr	235070	kg m**-2 s**-1	Single/Surface	-0.0005127026	3.8058584e-05	8.403949536273103e-09
+Precipitation type	ptype	260015	(Code table 4.201)	Single/Surface	0.0	8.0	0.0001220703125
+K index	kx	260121	K	Single/Surface	-147.42314	45.75621	0.0029476829804480076
+Total totals index	totalx	260123	K	Single/Surface	-58.761272	63.22233	0.001861321972683072
+Significant wave height of first swell partition	swh1	140121	m	Single/Surface	0.0	9.668502	0.00014752963033970445
+Mean wave direction of first swell partition	mwd1	140122	degrees	Single/Surface	1.0801642e-05	359.99997	0.005493163596838713
+Mean wave period of first swell partition	mwp1	140123	s	Single/Surface	0.0	28.96636	0.0004419915785547346
+Significant wave height of second swell partition	swh2	140124	m	Single/Surface	0.0	6.2371826	9.517185389995575e-05
+Mean wave direction of second swell partition	mwd2	140125	degrees	Single/Surface	5.691126e-06	360.0	0.0054931640625
+Mean wave period of second swell partition	mwp2	140126	s	Single/Surface	0.0	28.96669	0.0004419966135174036
+Significant wave height of third swell partition	swh3	140127	m	Single/Surface	0.0	4.755615	7.256492972373962e-05
+Mean wave direction of third swell partition	mwd3	140128	degrees	Single/Surface	4.4763547e-06	359.99997	0.005493163596838713
+Mean wave period of third swell partition	mwp3	140129	s	Single/Surface	0.0	28.966309	0.00044199079275131226
+Wave Spectral Skewness	wss	140207	Numeric	Single/Surface	0.00011390794	0.101444766	1.5461862403753912e-06
+Free convective velocity over the oceans	wstar	140208	m s**-1	Single/Surface	0.0	2.8270264	4.3136999011039734e-05
+Air density over the oceans	rhoao	140209	kg m**-3	Single/Surface	0.9978549	1.5407505	8.283929673780221e-06
+Normalized energy flux into waves	phiaw	140211	Numeric	Single/Surface	-103.2204	6.4314117	0.0016731538344174623
+Normalized energy flux into ocean	phioc	140212	Numeric	Single/Surface	-2435.9817	-0.19750977	0.03716711699962616
+Normalized stress into ocean	tauoc	140214	Numeric	Single/Surface	0.72867155	20.141323	0.0002962135476991534
+U-component surface stokes drift	ust	140215	m s**-1	Single/Surface	-0.8038976	0.93108517	2.6473735488252714e-05
+V-component surface stokes drift	vst	140216	m s**-1	Single/Surface	-0.78493565	0.89954257	2.570309879956767e-05
+Period corresponding to maximum individual wave height	tmax	140217	s	Single/Surface	1.9529505	15.253711	0.00020295349531807005
+Envelop-maximum individual wave height	hmax	140218	m	Single/Surface	0.032169748	28.994614	0.0004419318283908069
+Model bathymetry	wmb	140219	m	Single/Surface	5.0	999.0	0.015167236328125
+Mean wave period based on first moment	mp1	140220	s	Single/Surface	1.495059	15.01979	0.000206371012609452
+Mean zero-crossing wave period	mp2	140221	s	Single/Surface	1.4050522	13.9297695	0.0001911120198201388
+Wave spectral directional width	wdw	140222	radians	Single/Surface	0.19933546	1.3744593	1.7930966350832023e-05
+Mean wave period based on first moment for wind waves	p1ww	140223	s	Single/Surface	1.4243002	13.101718	0.00017818325432017446
+Mean wave period based on second moment for wind waves	p2ww	140224	s	Single/Surface	0.0	11.68335	0.0001782737672328949
+Wave spectral directional width for wind waves	dwww	140225	radians	Single/Surface	0.0	1.4142455	2.157967355742585e-05
+Mean wave period based on first moment for swell	p1ps	140226	s	Single/Surface	1.495059	16.368708	0.0002269538672408089
+Mean wave period based on second moment for swell	p2ps	140227	s	Single/Surface	1.4050522	15.511257	0.00021524360636249185
+Wave spectral directional width for swell	dwps	140228	radians	Single/Surface	0.06416768	1.4095137	2.0528350432869047e-05
+Significant height of combined wind waves and swell	swh	140229	m	Single/Surface	0.031689517	15.400932	0.00023451603192370385
+Mean wave direction	mwd	140230	Degree true	Single/Surface	0.00012719269	360.00363	0.00549321761354804
+Peak wave period	pp1d	140231	s	Single/Surface	1.8260269	21.098976	0.0002940818667411804
+Mean wave period	mwp	140232	s	Single/Surface	1.6203156	16.45109	0.00022629965678788722
+Significant height of wind waves	shww	140234	m	Single/Surface	2.5086172e-16	15.387207	0.0002347901463508606
+Mean direction of wind waves	mdww	140235	degrees	Single/Surface	1.2050987e-05	360.0035	0.00549321761354804
+Mean period of wind waves	mpww	140236	s	Single/Surface	1.5170059	14.739394	0.0002017576334765181
+Significant height of total swell	shts	140237	m	Single/Surface	0.0	9.903525	0.00015111580432858318
+Mean direction of total swell	mdts	140238	degrees	Single/Surface	1.591211e-06	360.00372	0.0054932208731770515
+Mean period of total swell	mpts	140239	s	Single/Surface	1.6203156	17.534609	0.00024283284437842667
+Mean square slope of waves	msqs	140244	dimensionless	Single/Surface	2.086797e-05	0.0608462	9.281208690481435e-07
+Wave spectral kurtosis	wsk	140252	dimensionless	Single/Surface	-0.33000004	0.9993343	2.028403105214238e-05
+Benjamin-Feir index	bfi	140253	dimensionless	Single/Surface	-10.0	9.995083	0.00030510075157508254
+Wave spectral peakedness	wsp	140254	dimensionless	Single/Surface	1.1663694	43.99974	0.0006535853608511388
+Coefficient of drag with waves	cdww	140233	dimensionless	Single/Surface	0.0006759383	0.0065243226	8.923926486659184e-08
+10 metre wind speed	wind	140245	m s**-1	Single/Surface	2.0	34.67285	0.000498548150062561
+10 metre wind direction	dwi	140249	degrees	Single/Surface	1.6288632e-06	360.00375	0.005493221338838339
+Ice temperature layer 1	istl1	35	K	Single/Surface	230.60287	273.161	0.0006493856199085712
+Ice temperature layer 2	istl2	36	K	Single/Surface	235.49886	273.16095	0.0005746779497712851
+Ice temperature layer 3	istl3	37	K	Single/Surface	249.33615	272.6903	0.0003563561476767063
+Ice temperature layer 4	istl4	38	K	Single/Surface	261.85376	272.01196	0.00015500187873840332
+Volumetric soil water layer 1	swvl1	39	m**3 m**-3	Single/Surface	-0.014633857	0.76602054	1.1911840374523308e-05
+Volumetric soil water layer 2	swvl2	40	m**3 m**-3	Single/Surface	-0.0005851451	0.76594377	1.1696302863128949e-05
+Volumetric soil water layer 3	swvl3	41	m**3 m**-3	Single/Surface	-0.00057547074	0.765307	1.1686439393088222e-05
+Volumetric soil water layer 4	swvl4	42	m**3 m**-3	Single/Surface	0.0	0.7555084	1.1528143659234047e-05
+Soil temperature level 1	stl1	139	K	Single/Surface	212.61618	337.20554	0.001901082694530487
+Soil temperature level 2	stl2	170	K	Single/Surface	212.99513	320.13095	0.001634762855246663
+Soil temperature level 3	stl3	183	K	Single/Surface	213.98178	316.1906	0.0015595830045640469
+Soil temperature level 4	stl4	236	K	Single/Surface	214.95973	313.81348	0.0015083884354680777
