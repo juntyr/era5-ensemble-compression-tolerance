@@ -1,5 +1,8 @@
 /.zed_server
 /.venv
 
+/plots
+
+**/__pycache__
 **/.ipynb_checkpoints
 **/.DS_Store
