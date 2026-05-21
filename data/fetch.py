@@ -1,4 +1,6 @@
 from itertools import product
+from pathlib import Path
+from zipfile import ZipFile
 
 import cdsapi
 
@@ -7,6 +9,14 @@ dataset = "reanalysis-era5-pressure-levels"
 for product_type, month, pressure_level in product(
     ["ensemble_mean", "ensemble_spread"], ["06", "12"], ["1000", "850", "500", "50"]
 ):
+    folder = Path(
+        f"reanalysis-era5-pressure-levels_{product_type}_{month}_{pressure_level}"
+    )
+    target = folder.with_suffix(".zip")
+
+    if folder.exists():
+        continue
+
     request = {
         "product_type": [product_type],
         "variable": [
@@ -77,8 +87,15 @@ for product_type, month, pressure_level in product(
         "download_format": "zip",
     }
 
-    client = cdsapi.Client()
-    client.retrieve(dataset, request).download()
+    if not target.exists():
+        client = cdsapi.Client()
+        client.retrieve(dataset, request).download(target=target)
+
+    if not folder.exists():
+        folder.mkdir(parents=True, exist_ok=False)
+
+        with ZipFile(target, "r") as f:
+            f.extractall(path=folder)
 
 
 dataset = "reanalysis-era5-single-levels"
@@ -88,6 +105,12 @@ for product_type, month, time in product(
     ["06", "12"],
     ["00:00", "03:00", "06:00", "09:00", "12:00", "15:00", "18:00", "21:00"],
 ):
+    folder = Path(f"reanalysis-era5-single-levels_{product_type}_{month}_{time}")
+    target = folder.with_suffix(".zip")
+
+    if folder.exists():
+        continue
+
     request = {
         "product_type": [product_type],
         "variable": [
@@ -357,5 +380,12 @@ for product_type, month, time in product(
         "download_format": "zip",
     }
 
-    client = cdsapi.Client()
-    client.retrieve(dataset, request).download()
+    if not target.exists():
+        client = cdsapi.Client()
+        client.retrieve(dataset, request).download(target=target)
+
+    if not folder.exists():
+        folder.mkdir(parents=True, exist_ok=False)
+
+        with ZipFile(target, "r") as f:
+            f.extractall(path=folder)
