@@ -1,8 +1,18 @@
-pv:
- - 50.0 hPa: RangeBounds(min=-9.390824e-05, max=0.00011357886, min_abs=1.4551915e-11)
- - 500.0 hPa: RangeBounds(min=-5.9587182e-06, max=8.640767e-06, min_abs=9.094947e-13)
- - 850.0 hPa: RangeBounds(min=-0.00022642239, max=0.00019101215, min_abs=1.4551915e-11)
- - 1000.0 hPa: RangeBounds(min=-0.00023304822, max=0.00021014581, min_abs=1.4551915e-11)
+cc:
+ - 50.0 hPa: RangeBounds(min=0.0, max=0.890625, min_abs=2.3841858e-07)
+ - 500.0 hPa: RangeBounds(min=0.0, max=1.0, min_abs=0.0078125)
+ - 850.0 hPa: RangeBounds(min=0.0, max=1.0, min_abs=0.0078125)
+ - 1000.0 hPa: RangeBounds(min=0.0, max=1.0, min_abs=0.0078125)
+ciwc:
+ - 50.0 hPa: RangeBounds(min=0.0, max=1.5874393e-06, min_abs=1.8189894e-12)
+ - 500.0 hPa: RangeBounds(min=0.0, max=0.000436306, min_abs=5.9604645e-08)
+ - 850.0 hPa: RangeBounds(min=0.0, max=0.00016754866, min_abs=1.4901161e-08)
+ - 1000.0 hPa: RangeBounds(min=0.0, max=0.00017523766, min_abs=7.450581e-09)
+clwc:
+ - 50.0 hPa: RangeBounds(min=0.0, max=0.0, min_abs=0.0)
+ - 500.0 hPa: RangeBounds(min=0.0, max=0.00054216385, min_abs=5.9604645e-08)
+ - 850.0 hPa: RangeBounds(min=0.0, max=0.0017747879, min_abs=1.1920929e-07)
+ - 1000.0 hPa: RangeBounds(min=0.0, max=0.0017747879, min_abs=1.1920929e-07)
 crwc:
  - 50.0 hPa: RangeBounds(min=0.0, max=0.0, min_abs=0.0)
  - 500.0 hPa: RangeBounds(min=0.0, max=0.00024315342, min_abs=1.4551915e-11)
@@ -13,11 +23,31 @@ cswc:
  - 500.0 hPa: RangeBounds(min=0.0, max=0.0038656592, min_abs=2.9802322e-08)
  - 850.0 hPa: RangeBounds(min=0.0, max=0.0015426576, min_abs=7.450581e-09)
  - 1000.0 hPa: RangeBounds(min=0.0, max=0.0015289485, min_abs=3.7252903e-09)
-z:
- - 50.0 hPa: RangeBounds(min=179695.31, max=207254.25, min_abs=179695.31)
- - 500.0 hPa: RangeBounds(min=44407.645, max=58633.336, min_abs=44407.645)
- - 850.0 hPa: RangeBounds(min=7351.914, max=17362.133, min_abs=7351.914)
- - 1000.0 hPa: RangeBounds(min=-5302.5625, max=4675.331, min_abs=0.00024414062)
+d:
+ - 50.0 hPa: RangeBounds(min=-0.00033755833, max=0.00026393158, min_abs=1.4551915e-11)
+ - 500.0 hPa: RangeBounds(min=-0.00025126128, max=0.00024622865, min_abs=2.910383e-11)
+ - 850.0 hPa: RangeBounds(min=-0.00040288805, max=0.00038977107, min_abs=1.4551915e-11)
+ - 1000.0 hPa: RangeBounds(min=-0.00031533837, max=0.0002788137, min_abs=1.4551915e-11)
+o3:
+ - 50.0 hPa: RangeBounds(min=1.2050496e-06, max=7.4864065e-06, min_abs=1.2050496e-06)
+ - 500.0 hPa: RangeBounds(min=2.8428224e-09, max=3.388691e-07, min_abs=2.8428224e-09)
+ - 850.0 hPa: RangeBounds(min=8.95213e-10, max=1.7826349e-07, min_abs=8.95213e-10)
+ - 1000.0 hPa: RangeBounds(min=-2.4808688e-10, max=1.5739056e-07, min_abs=1.889422e-11)
+pv:
+ - 50.0 hPa: RangeBounds(min=-9.390824e-05, max=0.00011357886, min_abs=1.4551915e-11)
+ - 500.0 hPa: RangeBounds(min=-5.9587182e-06, max=8.640767e-06, min_abs=9.094947e-13)
+ - 850.0 hPa: RangeBounds(min=-0.00022642239, max=0.00019101215, min_abs=1.4551915e-11)
+ - 1000.0 hPa: RangeBounds(min=-0.00023304822, max=0.00021014581, min_abs=1.4551915e-11)
+q:
+ - 50.0 hPa: RangeBounds(min=1.1303055e-06, max=3.5957883e-06, min_abs=1.1303055e-06)
+ - 500.0 hPa: RangeBounds(min=-8.7586395e-06, max=0.008704963, min_abs=3.2939056e-09)
+ - 850.0 hPa: RangeBounds(min=5.3445814e-07, max=0.019830639, min_abs=5.3445814e-07)
+ - 1000.0 hPa: RangeBounds(min=1.5601854e-06, max=0.028322894, min_abs=1.5601854e-06)
+r:
+ - 50.0 hPa: RangeBounds(min=0.06010013, max=154.00159, min_abs=0.06010013)
+ - 500.0 hPa: RangeBounds(min=-4.560259, max=130.14885, min_abs=8.004904e-05)
+ - 850.0 hPa: RangeBounds(min=-6.3122244, max=152.63963, min_abs=5.6266785e-05)
+ - 1000.0 hPa: RangeBounds(min=-4.6124907, max=152.86267, min_abs=0.0011577606)
 t:
  - 50.0 hPa: RangeBounds(min=181.73553, max=243.88168, min_abs=181.73553)
  - 500.0 hPa: RangeBounds(min=220.14658, max=280.6806, min_abs=220.14658)
@@ -33,48 +63,18 @@ v:
  - 500.0 hPa: RangeBounds(min=-60.978607, max=61.388245, min_abs=1.5258789e-05)
  - 850.0 hPa: RangeBounds(min=-47.37993, max=53.86458, min_abs=1.5258789e-05)
  - 1000.0 hPa: RangeBounds(min=-28.859634, max=30.700836, min_abs=1.5258789e-05)
-q:
- - 50.0 hPa: RangeBounds(min=1.1303055e-06, max=3.5957883e-06, min_abs=1.1303055e-06)
- - 500.0 hPa: RangeBounds(min=-8.7586395e-06, max=0.008704963, min_abs=3.2939056e-09)
- - 850.0 hPa: RangeBounds(min=5.3445814e-07, max=0.019830639, min_abs=5.3445814e-07)
- - 1000.0 hPa: RangeBounds(min=1.5601854e-06, max=0.028322894, min_abs=1.5601854e-06)
-w:
- - 50.0 hPa: RangeBounds(min=-0.43971562, max=0.3050756, min_abs=3.7252903e-09)
- - 500.0 hPa: RangeBounds(min=-9.138772, max=4.803811, min_abs=9.536743e-07)
- - 850.0 hPa: RangeBounds(min=-5.3200893, max=5.4117384, min_abs=9.536743e-07)
- - 1000.0 hPa: RangeBounds(min=-2.513836, max=4.3923993, min_abs=9.536743e-07)
 vo:
  - 50.0 hPa: RangeBounds(min=-0.00024676067, max=0.000212129, min_abs=1.4551915e-11)
  - 500.0 hPa: RangeBounds(min=-0.00052070664, max=0.0007340978, min_abs=1.4551915e-11)
  - 850.0 hPa: RangeBounds(min=-0.00070496765, max=0.0009666227, min_abs=2.3283064e-10)
  - 1000.0 hPa: RangeBounds(min=-0.00051995856, max=0.000651282, min_abs=2.3283064e-10)
-d:
- - 50.0 hPa: RangeBounds(min=-0.00033755833, max=0.00026393158, min_abs=1.4551915e-11)
- - 500.0 hPa: RangeBounds(min=-0.00025126128, max=0.00024622865, min_abs=2.910383e-11)
- - 850.0 hPa: RangeBounds(min=-0.00040288805, max=0.00038977107, min_abs=1.4551915e-11)
- - 1000.0 hPa: RangeBounds(min=-0.00031533837, max=0.0002788137, min_abs=1.4551915e-11)
-r:
- - 50.0 hPa: RangeBounds(min=0.06010013, max=154.00159, min_abs=0.06010013)
- - 500.0 hPa: RangeBounds(min=-4.560259, max=130.14885, min_abs=8.004904e-05)
- - 850.0 hPa: RangeBounds(min=-6.3122244, max=152.63963, min_abs=5.6266785e-05)
- - 1000.0 hPa: RangeBounds(min=-4.6124907, max=152.86267, min_abs=0.0011577606)
-o3:
- - 50.0 hPa: RangeBounds(min=1.2050496e-06, max=7.4864065e-06, min_abs=1.2050496e-06)
- - 500.0 hPa: RangeBounds(min=2.8428224e-09, max=3.388691e-07, min_abs=2.8428224e-09)
- - 850.0 hPa: RangeBounds(min=8.95213e-10, max=1.7826349e-07, min_abs=8.95213e-10)
- - 1000.0 hPa: RangeBounds(min=-2.4808688e-10, max=1.5739056e-07, min_abs=1.889422e-11)
-clwc:
- - 50.0 hPa: RangeBounds(min=0.0, max=0.0, min_abs=0.0)
- - 500.0 hPa: RangeBounds(min=0.0, max=0.00054216385, min_abs=5.9604645e-08)
- - 850.0 hPa: RangeBounds(min=0.0, max=0.0017747879, min_abs=1.1920929e-07)
- - 1000.0 hPa: RangeBounds(min=0.0, max=0.0017747879, min_abs=1.1920929e-07)
-ciwc:
- - 50.0 hPa: RangeBounds(min=0.0, max=1.5874393e-06, min_abs=1.8189894e-12)
- - 500.0 hPa: RangeBounds(min=0.0, max=0.000436306, min_abs=5.9604645e-08)
- - 850.0 hPa: RangeBounds(min=0.0, max=0.00016754866, min_abs=1.4901161e-08)
- - 1000.0 hPa: RangeBounds(min=0.0, max=0.00017523766, min_abs=7.450581e-09)
-cc:
- - 50.0 hPa: RangeBounds(min=0.0, max=0.890625, min_abs=2.3841858e-07)
- - 500.0 hPa: RangeBounds(min=0.0, max=1.0, min_abs=0.0078125)
- - 850.0 hPa: RangeBounds(min=0.0, max=1.0, min_abs=0.0078125)
- - 1000.0 hPa: RangeBounds(min=0.0, max=1.0, min_abs=0.0078125)
+w:
+ - 50.0 hPa: RangeBounds(min=-0.43971562, max=0.3050756, min_abs=3.7252903e-09)
+ - 500.0 hPa: RangeBounds(min=-9.138772, max=4.803811, min_abs=9.536743e-07)
+ - 850.0 hPa: RangeBounds(min=-5.3200893, max=5.4117384, min_abs=9.536743e-07)
+ - 1000.0 hPa: RangeBounds(min=-2.513836, max=4.3923993, min_abs=9.536743e-07)
+z:
+ - 50.0 hPa: RangeBounds(min=179695.31, max=207254.25, min_abs=179695.31)
+ - 500.0 hPa: RangeBounds(min=44407.645, max=58633.336, min_abs=44407.645)
+ - 850.0 hPa: RangeBounds(min=7351.914, max=17362.133, min_abs=7351.914)
+ - 1000.0 hPa: RangeBounds(min=-5302.5625, max=4675.331, min_abs=0.00024414062)
