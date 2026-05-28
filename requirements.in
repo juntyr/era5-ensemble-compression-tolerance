@@ -1,8 +1,13 @@
+cdsapi ~= 0.7
 dask ~= 2024.11
-field-compression-benchmark == 0.0.15
+# field-compression-benchmark == 0.0.15
+ipywidgets ~= 8.1
 jupyterlab ~= 4.3
 matplotlib ~= 3.9
 netCDF4 ~= 1.7
-numpy ~= 1.26
+numcodecs-wasm == 0.2.4
+numcodecs-wasm-bit-round == 0.4.0
+numcodecs-wasm-zstd == 0.4.0
+numpy ~= 2.0
 pandas ~= 2.2
 xarray ~= 2024.11
