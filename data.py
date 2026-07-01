@@ -3,10 +3,9 @@ __all__ = ["UncertainDataset", "ds_single", "ds_pressure"]
 from dataclasses import dataclass
 from pathlib import Path
 
-data = Path("data")
-
-import numpy as np
 import xarray as xr
+
+data = Path("data")
 
 
 @dataclass
