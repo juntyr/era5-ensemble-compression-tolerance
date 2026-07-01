@@ -203,8 +203,11 @@ numcodecs-wasm==0.2.4
     # via
     #   -r requirements.in
     #   numcodecs-wasm-bit-round
+    #   numcodecs-wasm-lc
     #   numcodecs-wasm-zstd
 numcodecs-wasm-bit-round==0.4.0
+    # via -r requirements.in
+numcodecs-wasm-lc==0.1.0
     # via -r requirements.in
 numcodecs-wasm-zstd==0.4.0
     # via -r requirements.in

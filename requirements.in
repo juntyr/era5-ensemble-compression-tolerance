@@ -7,6 +7,7 @@ matplotlib ~= 3.9
 netCDF4 ~= 1.7
 numcodecs-wasm == 0.2.4
 numcodecs-wasm-bit-round == 0.4.0
+numcodecs-wasm-lc == 0.1.0
 numcodecs-wasm-zstd == 0.4.0
 numpy ~= 2.0
 pandas ~= 2.2
