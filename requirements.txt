@@ -279,6 +279,7 @@ python-dateutil==2.9.0.post0
     #   matplotlib
     #   multiurl
     #   pandas
+    #   strictyaml
 python-json-logger==3.2.1
     # via jupyter-events
 pytz==2024.2
@@ -338,6 +339,8 @@ soupsieve==2.6
     # via beautifulsoup4
 stack-data==0.6.3
     # via ipython
+strictyaml==1.7.3
+    # via -r requirements.in
 terminado==0.18.1
     # via
     #   jupyter-server

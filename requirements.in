@@ -10,4 +10,5 @@ numcodecs-wasm-lc == 0.1.0
 numcodecs-wasm-zstd == 0.4.0
 numpy ~= 2.0
 pandas ~= 2.2
+strictyaml ~= 1.7
 xarray ~= 2024.11
