@@ -1,0 +1,1556 @@
+recommendations:
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_cpr
+    - kind: grib-short-name
+      value: avg_cpr
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_csfr
+    - kind: grib-short-name
+      value: avg_csfr
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_ilspf
+    - kind: grib-short-name
+      value: avg_ilspf
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_lsprate
+    - kind: grib-short-name
+      value: avg_lsprate
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_lssfr
+    - kind: grib-short-name
+      value: avg_lssfr
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_rorwe
+    - kind: grib-short-name
+      value: avg_rorwe
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_sdirswrf
+    - kind: grib-short-name
+      value: avg_sdirswrf
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_sdirswrfcs
+    - kind: grib-short-name
+      value: avg_sdirswrfcs
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_sdswrf
+    - kind: grib-short-name
+      value: avg_sdswrf
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_sdswrfcs
+    - kind: grib-short-name
+      value: avg_sdswrfcs
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_sduvrf
+    - kind: grib-short-name
+      value: avg_sduvrf
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_smr
+    - kind: grib-short-name
+      value: avg_smr
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_snswrfcs
+    - kind: grib-short-name
+      value: avg_snswrfcs
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_ssurfror
+    - kind: grib-short-name
+      value: avg_ssurfror
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_surfror
+    - kind: grib-short-name
+      value: avg_surfror
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_tdswrf
+    - kind: grib-short-name
+      value: avg_tdswrf
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_tnswrf
+    - kind: grib-short-name
+      value: avg_tnswrf
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_tnswrfcs
+    - kind: grib-short-name
+      value: avg_tnswrfcs
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_tprate
+    - kind: grib-short-name
+      value: avg_tprate
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: avg_tsrwe
+    - kind: grib-short-name
+      value: avg_tsrwe
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: cape
+    - kind: grib-short-name
+      value: cape
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: cdir
+    - kind: grib-short-name
+      value: cdir
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: cl
+    - kind: grib-short-name
+      value: cl
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-standard-name
+      value: lwe_thickness_of_convective_precipitation_amount
+    - kind: cf-short-name
+      value: cp
+    - kind: grib-short-name
+      value: cp
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: crr
+    - kind: grib-short-name
+      value: crr
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: csf
+    - kind: grib-short-name
+      value: csf
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: csfr
+    - kind: grib-short-name
+      value: csfr
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: cvh
+    - kind: grib-short-name
+      value: cvh
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: cvl
+    - kind: grib-short-name
+      value: cvl
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: deg0l
+    - kind: grib-short-name
+      value: deg0l
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: dwww
+    - kind: grib-short-name
+      value: dwww
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: fdir
+    - kind: grib-short-name
+      value: fdir
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: hcc
+    - kind: grib-short-name
+      value: hcc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: ilspf
+    - kind: grib-short-name
+      value: ilspf
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: isor
+    - kind: grib-short-name
+      value: isor
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: lai_hv
+    - kind: grib-short-name
+      value: lai_hv
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: lai_lv
+    - kind: grib-short-name
+      value: lai_lv
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: lcc
+    - kind: grib-short-name
+      value: lcc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: lsf
+    - kind: grib-short-name
+      value: lsf
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-standard-name
+      value: land_binary_mask
+    - kind: cf-short-name
+      value: lsm
+    - kind: grib-short-name
+      value: lsm
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-standard-name
+      value: lwe_thickness_of_stratiform_precipitation_amount
+    - kind: cf-short-name
+      value: lsp
+    - kind: grib-short-name
+      value: lsp
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: lspf
+    - kind: grib-short-name
+      value: lspf
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: lsrr
+    - kind: grib-short-name
+      value: lsrr
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: lssfr
+    - kind: grib-short-name
+      value: lssfr
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: mcc
+    - kind: grib-short-name
+      value: mcc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: mntpr
+    - kind: grib-short-name
+      value: mntpr
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: mwp1
+    - kind: grib-short-name
+      value: mwp1
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: mwp2
+    - kind: grib-short-name
+      value: mwp2
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: mwp3
+    - kind: grib-short-name
+      value: mwp3
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: mxtpr
+    - kind: grib-short-name
+      value: mxtpr
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: p2ww
+    - kind: grib-short-name
+      value: p2ww
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: ptype
+    - kind: grib-short-name
+      value: ptype
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: ro
+    - kind: grib-short-name
+      value: ro
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-standard-name
+      value: lwe_thickness_of_surface_snow_amount
+    - kind: cf-short-name
+      value: sd
+    - kind: grib-short-name
+      value: sd
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: sdfor
+    - kind: grib-short-name
+      value: sdfor
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: sdor
+    - kind: grib-short-name
+      value: sdor
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-standard-name
+      value: lwe_thickness_of_snowfall_amount
+    - kind: cf-short-name
+      value: sf
+    - kind: grib-short-name
+      value: sf
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: shts
+    - kind: grib-short-name
+      value: shts
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-standard-name
+      value: sea_ice_area_fraction
+    - kind: cf-short-name
+      value: siconc
+    - kind: grib-short-name
+      value: ci
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: slt
+    - kind: grib-short-name
+      value: slt
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: smlt
+    - kind: grib-short-name
+      value: smlt
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: sro
+    - kind: grib-short-name
+      value: sro
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-standard-name
+      value: surface_net_downward_shortwave_flux_assuming_clear_sky
+    - kind: cf-short-name
+      value: ssrc
+    - kind: grib-short-name
+      value: ssrc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-standard-name
+      value: surface_downwelling_shortwave_flux_in_air
+    - kind: cf-short-name
+      value: ssrd
+    - kind: grib-short-name
+      value: ssrd
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: ssrdc
+    - kind: grib-short-name
+      value: ssrdc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: ssro
+    - kind: grib-short-name
+      value: ssro
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: swh1
+    - kind: grib-short-name
+      value: swh1
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: swh2
+    - kind: grib-short-name
+      value: swh2
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: swh3
+    - kind: grib-short-name
+      value: swh3
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: swvl4
+    - kind: grib-short-name
+      value: swvl4
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-standard-name
+      value: cloud_area_fraction
+    - kind: cf-short-name
+      value: tcc
+    - kind: grib-short-name
+      value: tcc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: tciw
+    - kind: grib-short-name
+      value: tciw
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: tclw
+    - kind: grib-short-name
+      value: tclw
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: tcrw
+    - kind: grib-short-name
+      value: tcrw
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: tcslw
+    - kind: grib-short-name
+      value: tcslw
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: tcsw
+    - kind: grib-short-name
+      value: tcsw
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: tisr
+    - kind: grib-short-name
+      value: tisr
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: tp
+    - kind: grib-short-name
+      value: tp
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-standard-name
+      value: toa_net_upward_shortwave_flux
+    - kind: cf-short-name
+      value: tsr
+    - kind: grib-short-name
+      value: tsr
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: tsrc
+    - kind: grib-short-name
+      value: tsrc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: tvh
+    - kind: grib-short-name
+      value: tvh
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: tvl
+    - kind: grib-short-name
+      value: tvl
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: uvb
+    - kind: grib-short-name
+      value: uvb
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: wstar
+    - kind: grib-short-name
+      value: wstar
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: single
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: cc
+    - kind: grib-short-name
+      value: cc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 50.0
+      maximum: 50.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: cc
+    - kind: grib-short-name
+      value: cc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 500.0
+      maximum: 500.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: cc
+    - kind: grib-short-name
+      value: cc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 850.0
+      maximum: 850.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: cc
+    - kind: grib-short-name
+      value: cc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 1000.0
+      maximum: 1000.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 1.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: ciwc
+    - kind: grib-short-name
+      value: ciwc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 50.0
+      maximum: 50.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: ciwc
+    - kind: grib-short-name
+      value: ciwc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 500.0
+      maximum: 500.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: ciwc
+    - kind: grib-short-name
+      value: ciwc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 850.0
+      maximum: 850.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: ciwc
+    - kind: grib-short-name
+      value: ciwc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 1000.0
+      maximum: 1000.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: clwc
+    - kind: grib-short-name
+      value: clwc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 50.0
+      maximum: 50.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: clwc
+    - kind: grib-short-name
+      value: clwc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 500.0
+      maximum: 500.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: clwc
+    - kind: grib-short-name
+      value: clwc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 850.0
+      maximum: 850.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: clwc
+    - kind: grib-short-name
+      value: clwc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 1000.0
+      maximum: 1000.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: crwc
+    - kind: grib-short-name
+      value: crwc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 50.0
+      maximum: 50.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+    maximum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: crwc
+    - kind: grib-short-name
+      value: crwc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 500.0
+      maximum: 500.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: crwc
+    - kind: grib-short-name
+      value: crwc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 850.0
+      maximum: 850.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: crwc
+    - kind: grib-short-name
+      value: crwc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 1000.0
+      maximum: 1000.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: cswc
+    - kind: grib-short-name
+      value: cswc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 50.0
+      maximum: 50.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: cswc
+    - kind: grib-short-name
+      value: cswc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 500.0
+      maximum: 500.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: cswc
+    - kind: grib-short-name
+      value: cswc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 850.0
+      maximum: 850.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+- filters:
+  - kind: any
+    filters:
+    - kind: cf-short-name
+      value: cswc
+    - kind: grib-short-name
+      value: cswc
+  - kind: all
+    filters:
+    - kind: level-kind
+      value: pressure
+    - kind: level-value
+      minimum: 1000.0
+      maximum: 1000.0
+  requirements:
+  - kind: data-limits
+    minimum: 0.0
+version: 0.1.0
+metadata:
+  commit:
