@@ -1660,7 +1660,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.000178596586920321
+    value: 0.00017715679132379591
     minimum: 0.0
     maximum: 0.003657042980194092
 - filters:
@@ -1724,7 +1724,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.000281551358057186
+    value: 0.0002791211009025574
     minimum: 0.0
     maximum: 0.003657042980194092
 - filters:
@@ -1788,7 +1788,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00040130766137735967
+    value: 0.0003971525584347546
     minimum: 0.0
     maximum: 0.003657042980194092
 - filters:
@@ -1916,7 +1916,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.5064484641916353e-05
+    value: 2.4942850945080864e-05
     minimum: 0.0
     maximum: 0.0005534142255783081
 - filters:
@@ -1980,7 +1980,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.0074004646157865e-05
+    value: 3.9789824731997235e-05
     minimum: 0.0
     maximum: 0.0005534142255783081
 - filters:
@@ -2044,7 +2044,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.979855814075566e-05
+    value: 5.929129056312381e-05
     minimum: 0.0
     maximum: 0.0005534142255783081
 - filters:
@@ -2428,7 +2428,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.062123666763307
+    value: 3.0621199817657483
     minimum: 0.0010403995402157307
     maximum: 540.1112060546875
 - filters:
@@ -2492,7 +2492,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.6054329490661665
+    value: 4.605428071022035
     minimum: 0.0010403995402157307
     maximum: 540.1112060546875
 - filters:
@@ -2556,7 +2556,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.8048906326293945
+    value: 6.8048834800720215
     minimum: 0.0010403995402157307
     maximum: 540.1112060546875
 - filters:
@@ -2684,7 +2684,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.577235822367244e-09
+    value: 4.577235797498249e-09
     minimum: -0.0004535214975476265
     maximum: 0.00010331255907658488
 - filters:
@@ -3196,7 +3196,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00033700869657332124
+    value: 0.0003370086873765109
     minimum: -11.441306114196777
     maximum: 9.441204071044922
 - filters:
@@ -3324,7 +3324,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0015251536213327218
+    value: 0.0015251535864081252
     minimum: -11.441306114196777
     maximum: 9.441204071044922
 - filters:
@@ -3708,7 +3708,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.01216753876768054
+    value: 0.012115837552584713
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -3772,7 +3772,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.03246348500251771
+    value: 0.03241153333336117
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -3836,7 +3836,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.05161122791469103
+    value: 0.05152103677392006
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -4476,7 +4476,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.14829117339849474
+    value: 0.14829117304086686
     minimum: -941.27685546875
     maximum: 409.061767578125
 - filters:
@@ -4540,7 +4540,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.3089714038372041
+    value: 0.3089714014530183
     minimum: -941.27685546875
     maximum: 409.061767578125
 - filters:
@@ -4604,7 +4604,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.6023526728153236
+    value: 0.6023526608943945
     minimum: -941.27685546875
     maximum: 409.061767578125
 - filters:
@@ -4732,7 +4732,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 7.76852721901378e-05
+    value: 7.698543049627915e-05
     minimum: 0.0
     maximum: 0.004712224006652832
 - filters:
@@ -4796,7 +4796,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0001262984296772629
+    value: 0.0001250000059371814
     minimum: 0.0
     maximum: 0.004712224006652832
 - filters:
@@ -4860,7 +4860,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00020123037393204868
+    value: 0.00019791033992078155
     minimum: 0.0
     maximum: 0.004712224006652832
 - filters:
@@ -4988,7 +4988,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.987060679675779e-05
+    value: 1.973149164768984e-05
     minimum: 0.0
     maximum: 0.0013905465602874756
 - filters:
@@ -5052,7 +5052,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.1421561288880184e-05
+    value: 3.117109008599073e-05
     minimum: 0.0
     maximum: 0.0013905465602874756
 - filters:
@@ -5116,7 +5116,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.7412340791197494e-05
+    value: 4.6924498747102916e-05
     minimum: 0.0
     maximum: 0.0013905465602874756
 - filters:
@@ -5500,7 +5500,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.2946907847654074e-05
+    value: 2.2790811271988787e-05
     minimum: 0.0
     maximum: 0.00352323055267334
 - filters:
@@ -5564,7 +5564,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.73968796338886e-05
+    value: 3.70831839973107e-05
     minimum: 0.0
     maximum: 0.00352323055267334
 - filters:
@@ -5628,7 +5628,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.174722511786968e-05
+    value: 6.093086994951591e-05
     minimum: 0.0
     maximum: 0.00352323055267334
 - filters:
@@ -5756,7 +5756,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.20793836642801763
+    value: 0.20756406709551817
     minimum: 0.0
     maximum: 1216.0
 - filters:
@@ -5820,7 +5820,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.5500944596529007
+    value: 0.5478618144989016
     minimum: 0.0
     maximum: 1216.0
 - filters:
@@ -5884,7 +5884,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.9730238556861885
+    value: 2.932668924331668
     minimum: 0.0
     maximum: 1216.0
 - filters:
@@ -6012,7 +6012,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.12341400131583218
+    value: 0.12340067946910858
     minimum: 0.0
     maximum: 1176.96875
 - filters:
@@ -6076,7 +6076,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.2384550385177136
+    value: 0.23842203319072738
     minimum: 0.0
     maximum: 1176.96875
 - filters:
@@ -6140,7 +6140,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.42698182165622767
+    value: 0.42691677808761597
     minimum: 0.0
     maximum: 1176.96875
 - filters:
@@ -6268,7 +6268,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.44804961049556735
+    value: 0.4480496097803116
     minimum: 52.32978820800781
     maximum: 512.716064453125
 - filters:
@@ -6332,7 +6332,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.7416194671392442
+    value: 0.7416194659471512
     minimum: 52.32978820800781
     maximum: 512.716064453125
 - filters:
@@ -6524,7 +6524,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.24641509884595877
+    value: 0.2464150975346566
     minimum: 51.84112548828125
     maximum: 513.326904296875
 - filters:
@@ -6780,7 +6780,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.17192974840104583
+    value: 0.17191779315471653
     minimum: 0.0
     maximum: 1278.25
 - filters:
@@ -6844,7 +6844,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.41227611541748077
+    value: 0.4121196269989015
     minimum: 0.0
     maximum: 1278.25
 - filters:
@@ -6908,7 +6908,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.7061417818069473
+    value: 1.7047277688980185
     minimum: 0.0
     maximum: 1278.25
 - filters:
@@ -7036,7 +7036,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.093312268704176
+    value: 0.09331045456230651
     minimum: 0.0
     maximum: 1257.03125
 - filters:
@@ -7100,7 +7100,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1788354110717774
+    value: 0.17883248656988152
     minimum: 0.0
     maximum: 1257.03125
 - filters:
@@ -7164,7 +7164,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.3293221101164819
+    value: 0.32931407690048276
     minimum: 0.0
     maximum: 1257.03125
 - filters:
@@ -7292,7 +7292,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.002471733372658491
+    value: 0.0024715550243854523
     minimum: 0.0
     maximum: 145.5390625
 - filters:
@@ -7356,7 +7356,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.007080428302288055
+    value: 0.007078397413715746
     minimum: 0.0
     maximum: 145.5390625
 - filters:
@@ -7420,7 +7420,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09826882034540213
+    value: 0.09823127463459981
     minimum: 0.0
     maximum: 145.5390625
 - filters:
@@ -7676,7 +7676,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.08386498056352212
+    value: 0.08386496789753503
     minimum: -1134.161865234375
     maximum: 258.37255859375
 - filters:
@@ -7804,7 +7804,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.123511559508189e-06
+    value: 6.060760495074647e-06
     minimum: 0.0
     maximum: 0.001138150691986084
 - filters:
@@ -7868,7 +7868,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.2573781123137458e-05
+    value: 1.2420337952789854e-05
     minimum: 0.0
     maximum: 0.001138150691986084
 - filters:
@@ -7932,7 +7932,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.527046581235482e-05
+    value: 2.4832040708133725e-05
     minimum: 0.0
     maximum: 0.001138150691986084
 - filters:
@@ -8060,7 +8060,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.24516937592625632
+    value: 0.24516937312483802
     minimum: -412.67529296875
     maximum: 63.99571228027344
 - filters:
@@ -8124,7 +8124,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.543355583548546
+    value: 0.543355582356453
     minimum: -412.67529296875
     maximum: 63.99571228027344
 - filters:
@@ -8380,7 +8380,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.37431367993354825
+    value: 0.37431367516517666
     minimum: -445.7294921875
     maximum: 44.794677734375
 - filters:
@@ -8572,7 +8572,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.13059277832508087
+    value: 0.1305814328789713
     minimum: 9.999996859901385e-16
     maximum: 1086.40625
 - filters:
@@ -8636,7 +8636,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.30908050656318853
+    value: 0.30897074937820435
     minimum: 9.999996859901385e-16
     maximum: 1086.40625
 - filters:
@@ -8700,7 +8700,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.359302425384528
+    value: 1.3584333658218384
     minimum: 9.999996859901385e-16
     maximum: 1086.40625
 - filters:
@@ -8892,7 +8892,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.13628408312797546
+    value: 0.1362810879945755
     minimum: 0.0
     maximum: 1083.25
 - filters:
@@ -8956,7 +8956,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.2822103798389435
+    value: 0.2821876108646393
     minimum: 0.0
     maximum: 1083.25
 - filters:
@@ -9084,7 +9084,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.1659207281809362e-05
+    value: 1.1621497833402827e-05
     minimum: 0.0
     maximum: 0.0018718242645263672
 - filters:
@@ -9148,7 +9148,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.8729397197603248e-05
+    value: 1.870909909484908e-05
     minimum: 0.0
     maximum: 0.0018718242645263672
 - filters:
@@ -9212,7 +9212,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.0206005249056034e-05
+    value: 3.007672967214603e-05
     minimum: 0.0
     maximum: 0.0018718242645263672
 - filters:
@@ -9340,7 +9340,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.165153440204454e-05
+    value: 3.057148205698468e-05
     minimum: 0.0
     maximum: 0.002887725830078125
 - filters:
@@ -9404,7 +9404,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 8.109610862447892e-05
+    value: 7.735148392384872e-05
     minimum: 0.0
     maximum: 0.002887725830078125
 - filters:
@@ -9468,7 +9468,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00018567420192994177
+    value: 0.0001803751802071929
     minimum: 0.0
     maximum: 0.002887725830078125
 - filters:
@@ -9852,7 +9852,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.12619427399337296
+    value: 0.1261942731291056
     minimum: -406.390625
     maximum: -74.42919921875
 - filters:
@@ -9980,7 +9980,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.5631378263235096
+    value: 0.563137820363045
     minimum: -406.390625
     maximum: -74.42919921875
 - filters:
@@ -10108,7 +10108,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09648050943017009
+    value: 0.09648050880432131
     minimum: -409.279541015625
     maximum: -91.618408203125
 - filters:
@@ -10364,7 +10364,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.11858973979949954
+    value: 0.11857905238866806
     minimum: 0.0
     maximum: 1307.40625
 - filters:
@@ -10428,7 +10428,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.33689379692077637
+    value: 0.33686699837446277
     minimum: 0.0
     maximum: 1307.40625
 - filters:
@@ -10492,7 +10492,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.9920122623443604
+    value: 0.9918211698532104
     minimum: 0.0
     maximum: 1307.40625
 - filters:
@@ -10620,7 +10620,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.02288757788389922
+    value: 0.02288737394846978
     minimum: 0.0
     maximum: 1300.4375
 - filters:
@@ -10684,7 +10684,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.04118288308382034
+    value: 0.04118262976408005
     minimum: 0.0
     maximum: 1300.4375
 - filters:
@@ -10748,7 +10748,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0641966462135315
+    value: 0.06419577449560165
     minimum: 0.0
     maximum: 1300.4375
 - filters:
@@ -10832,8 +10832,6 @@ recommendations:
     filters:
     - kind: tag
       value: absolute
-    - kind: tag
-      value: pick
   requirements:
   - kind: max-pointwise-absolute-error-bound
     value: 2.9802322387695312e-08
@@ -10874,9 +10872,11 @@ recommendations:
     filters:
     - kind: tag
       value: quadratic
+    - kind: tag
+      value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00010154346091439947
+    value: 0.00010090251453220844
     minimum: 0.0
     maximum: 0.006090879440307617
 - filters:
@@ -10940,7 +10940,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0001668893115129324
+    value: 0.00016540742944926048
     minimum: 0.0
     maximum: 0.006090879440307617
 - filters:
@@ -11004,7 +11004,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0002729988773353398
+    value: 0.00026940600218949937
     minimum: 0.0
     maximum: 0.006090879440307617
 - filters:
@@ -11132,7 +11132,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.9933129771743556e-05
+    value: 1.979426147590858e-05
     minimum: 0.0
     maximum: 0.0013905465602874756
 - filters:
@@ -11196,7 +11196,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.1609557481715456e-05
+    value: 3.138433639833239e-05
     minimum: 0.0
     maximum: 0.0013905465602874756
 - filters:
@@ -11260,7 +11260,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.81269889860414e-05
+    value: 4.7629720938857645e-05
     minimum: 0.0
     maximum: 0.0013905465602874756
 - filters:
@@ -11982,7 +11982,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 49732.05078125
+    value: 49732.02906250003
     minimum: 11.236319541931152
     maximum: 5833236.0
 - filters:
@@ -12052,7 +12052,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 73476.234375
+    value: 73476.15625
     minimum: 11.236319541931152
     maximum: 5833236.0
 - filters:
@@ -12180,7 +12180,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 20.039960851669314
+    value: 20.039960832595828
     minimum: 7.506748199462891
     maximum: 5909.5947265625
 - filters:
@@ -12244,7 +12244,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 31.204299831390394
+    value: 31.204299640655528
     minimum: 7.506748199462891
     maximum: 5909.5947265625
 - filters:
@@ -12308,7 +12308,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 47.08245830535891
+    value: 47.08245792388918
     minimum: 7.506748199462891
     maximum: 5909.5947265625
 - filters:
@@ -12436,7 +12436,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 172.7093505859375
+    value: 172.6903839111328
     minimum: 0.0
     maximum: 11051.75
 - filters:
@@ -12564,7 +12564,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 525.6325683593752
+    value: 518.156494140625
     minimum: 0.0
     maximum: 11051.75
 - filters:
@@ -12692,7 +12692,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.258504451274872
+    value: 2.258504449367523
     minimum: 21.738601684570312
     maximum: 17661.51171875
 - filters:
@@ -12948,7 +12948,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1338.5237470703128
+    value: 1338.3019447021486
     minimum: 0.0
     maximum: 12711168.0
 - filters:
@@ -13012,7 +13012,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2579.6217480468763
+    value: 2579.0944750976564
     minimum: 0.0
     maximum: 12711168.0
 - filters:
@@ -13076,7 +13076,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4616.0654296875
+    value: 4615.009765625
     minimum: 0.0
     maximum: 12711168.0
 - filters:
@@ -14240,7 +14240,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0019271500641480088
+    value: 0.0019121977807953956
     minimum: 0.0
     maximum: 0.039496421813964844
 - filters:
@@ -14310,7 +14310,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0030390439275652195
+    value: 0.003013409674167633
     minimum: 0.0
     maximum: 0.039496421813964844
 - filters:
@@ -14380,7 +14380,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0043315826915204525
+    value: 0.004288385435938837
     minimum: 0.0
     maximum: 0.039496421813964844
 - filters:
@@ -14508,7 +14508,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0002495274238754064
+    value: 0.0002468301681801677
     minimum: 0.0
     maximum: 0.004256248474121094
 - filters:
@@ -14572,7 +14572,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.000483746116515249
+    value: 0.00047933755558915436
     minimum: 0.0
     maximum: 0.004256248474121094
 - filters:
@@ -14636,7 +14636,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0007277115946635604
+    value: 0.000721248856279999
     minimum: 0.0
     maximum: 0.004256248474121094
 - filters:
@@ -14764,7 +14764,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0002707245635974687
+    value: 0.00026942373873316684
     minimum: 0.0
     maximum: 0.00597691535949707
 - filters:
@@ -14828,7 +14828,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0004328633804107085
+    value: 0.00042981074191629894
     minimum: 0.0
     maximum: 0.00597691535949707
 - filters:
@@ -14892,7 +14892,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0006458680727519096
+    value: 0.0006404228333849463
     minimum: 0.0
     maximum: 0.00597691535949707
 - filters:
@@ -15020,7 +15020,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.544352850643918e-05
+    value: 4.5307933069125285e-05
     minimum: 0.0
     maximum: 0.000833854079246521
 - filters:
@@ -15084,7 +15084,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 8.717976437765174e-05
+    value: 8.685391119797725e-05
     minimum: 0.0
     maximum: 0.000833854079246521
 - filters:
@@ -15148,7 +15148,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00013861170737072825
+    value: 0.000138057796721114
     minimum: 0.0
     maximum: 0.000833854079246521
 - filters:
@@ -15788,7 +15788,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.056498540896922356
+    value: 0.05649854081496597
     minimum: 193.9689178466797
     maximum: 304.2763977050781
 - filters:
@@ -15852,7 +15852,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.11870749220252046
+    value: 0.11870749071240433
     minimum: 193.9689178466797
     maximum: 304.2763977050781
 - filters:
@@ -15916,7 +15916,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.21226288229227083
+    value: 0.21226287931203858
     minimum: 193.9689178466797
     maximum: 304.2763977050781
 - filters:
@@ -16108,7 +16108,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 35.566275215148934
+    value: 35.49402980804446
     minimum: -1.0000009536743164
     maximum: 2064.5
 - filters:
@@ -16172,7 +16172,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 66.65108451843267
+    value: 66.46096420288089
     minimum: -1.0000009536743164
     maximum: 2064.5
 - filters:
@@ -16300,7 +16300,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.560718230724335
+    value: 0.560706295132637
     minimum: 0.0
     maximum: 6927.25
 - filters:
@@ -16364,7 +16364,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.8602705144882203
+    value: 0.8602508306503296
     minimum: 0.0
     maximum: 6927.25
 - filters:
@@ -16428,7 +16428,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.313609004020691
+    value: 1.3135758638381958
     minimum: 0.0
     maximum: 6927.25
 - filters:
@@ -16812,7 +16812,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.004243462679907685
+    value: 0.0042434433475136805
     minimum: -1.0000009536743164
     maximum: 2.5698232650756836
 - filters:
@@ -16876,7 +16876,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00957202434539795
+    value: 0.009572021663188934
     minimum: -1.0000009536743164
     maximum: 2.5698232650756836
 - filters:
@@ -16940,7 +16940,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.024475152231752915
+    value: 0.02447507344186306
     minimum: -1.0000009536743164
     maximum: 2.5698232650756836
 - filters:
@@ -17132,7 +17132,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.016819391399621964
+    value: 0.016819293387234233
     minimum: -1.0000009536743164
     maximum: 4.465331077575684
 - filters:
@@ -17196,7 +17196,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.039576725848019134
+    value: 0.03957660086452964
     minimum: -1.0000009536743164
     maximum: 4.465331077575684
 - filters:
@@ -17324,7 +17324,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.6513456382751465
+    value: 0.6513456363677979
     minimum: 3.325464786030352e-05
     maximum: 360.00372314453125
 - filters:
@@ -17452,7 +17452,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.3712330460548412
+    value: 1.3712329268455516
     minimum: 3.325464786030352e-05
     maximum: 360.00372314453125
 - filters:
@@ -17580,7 +17580,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0007372516064788216
+    value: 0.0007372515940223821
     minimum: 0.0937802791595459
     maximum: 1.4078044891357422
 - filters:
@@ -17644,7 +17644,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0014086435141507537
+    value: 0.0014086435118224473
     minimum: 0.0937802791595459
     maximum: 1.4078044891357422
 - filters:
@@ -17708,7 +17708,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.002316633996088059
+    value: 0.00231663378654048
     minimum: 0.0937802791595459
     maximum: 1.4078044891357422
 - filters:
@@ -18710,7 +18710,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 8.717044811248781
+    value: 8.717044773101808
     minimum: -123565.75
     maximum: 101967.078125
 - filters:
@@ -19036,7 +19036,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.1460472200706135e-06
+    value: 3.1460470722777308e-06
     minimum: 0.052334271371364594
     maximum: 0.8780986070632935
 - filters:
@@ -19164,7 +19164,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2245.637210449219
+    value: 2241.748161132813
     minimum: 0.0
     maximum: 13132800.0
 - filters:
@@ -19228,7 +19228,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5939.13818359375
+    value: 5906.3157324218755
     minimum: 0.0
     maximum: 13132800.0
 - filters:
@@ -19292,7 +19292,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 32035.955078125
+    value: 31488.01074218753
     minimum: 0.0
     maximum: 13132800.0
 - filters:
@@ -19420,7 +19420,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1359914089739323
+    value: 0.13599140807986265
     minimum: 0.46582382917404175
     maximum: 50.602359771728516
 - filters:
@@ -19740,7 +19740,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.0528334834089045e-05
+    value: 6.052833428839222e-05
     minimum: -12.022665023803711
     maximum: 0.6854753494262695
 - filters:
@@ -19996,7 +19996,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.681954545229019e-08
+    value: 6.681930543095412e-08
     minimum: 2.444820711389184e-05
     maximum: 1.9847999811172485
 - filters:
@@ -20060,7 +20060,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.8774109776131993e-06
+    value: 1.8773592273646676e-06
     minimum: 2.444820711389184e-05
     maximum: 1.9847999811172485
 - filters:
@@ -20444,7 +20444,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.049123666614294056
+    value: 0.04911663482338192
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -20508,7 +20508,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0809131655097008
+    value: 0.08090041100978854
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -20572,7 +20572,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1249251544475556
+    value: 0.12489881440997133
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -20700,7 +20700,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.010051367935724559
+    value: 0.010051367139443757
     minimum: 0.032183192670345306
     maximum: 27.34522819519043
 - filters:
@@ -20764,7 +20764,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.021159637421369552
+    value: 0.021159637048840524
     minimum: 0.032183192670345306
     maximum: 27.34522819519043
 - filters:
@@ -20828,7 +20828,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.03524641525000334
+    value: 0.035246414318680766
     minimum: 0.032183192670345306
     maximum: 27.34522819519043
 - filters:
@@ -20956,7 +20956,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.13706466540694237
+    value: 0.13706466510891915
     minimum: 0.3318089246749878
     maximum: 50.738624572753906
 - filters:
@@ -21020,7 +21020,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.2044532592594624
+    value: 0.20445325836539274
     minimum: 0.3318089246749878
     maximum: 50.738624572753906
 - filters:
@@ -21468,7 +21468,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0002835268270864617
+    value: 0.0002835268270282541
     minimum: -12.007261276245117
     maximum: 9.470582962036133
 - filters:
@@ -21532,7 +21532,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0007450742239598205
+    value: 0.000745074189035224
     minimum: -12.007261276245117
     maximum: 9.470582962036133
 - filters:
@@ -21724,7 +21724,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.006297774612903595
+    value: 0.006239075679332018
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -21788,7 +21788,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.032407715916633606
+    value: 0.03231422118842602
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -21852,7 +21852,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.05724618583917618
+    value: 0.057096734642982566
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -21980,7 +21980,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0002976211282075386
+    value: 0.00029762112227035717
     minimum: -11.832418441772461
     maximum: 7.615584373474121
 - filters:
@@ -22108,7 +22108,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0014955504855606724
+    value: 0.0014955504506360758
     minimum: -11.832418441772461
     maximum: 7.615584373474121
 - filters:
@@ -22236,7 +22236,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1355835790932179
+    value: 0.13558357819914824
     minimum: -899.2177734375
     maximum: 475.181640625
 - filters:
@@ -22300,7 +22300,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.2901864048838616
+    value: 0.2901864042878151
     minimum: -899.2177734375
     maximum: 475.181640625
 - filters:
@@ -22364,7 +22364,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.5733338534832008
+    value: 0.5733338415622717
     minimum: -899.2177734375
     maximum: 475.181640625
 - filters:
@@ -23580,7 +23580,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.003430150877684358
+    value: 0.0034301497694104936
     minimum: 262.56396484375
     maximum: 272.010498046875
 - filters:
@@ -23644,7 +23644,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.02357756011188034
+    value: 0.023577545117586887
     minimum: 262.56396484375
     maximum: 272.010498046875
 - filters:
@@ -23836,7 +23836,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.44581672430038466
+    value: 0.44581672191619887
     minimum: -119.15762329101562
     maximum: 43.817535400390625
 - filters:
@@ -24540,7 +24540,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0006480763106374107
+    value: 0.0006338797975331545
     minimum: 273.15966796875
     maximum: 307.686279296875
 - filters:
@@ -24604,7 +24604,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.021186785772442818
+    value: 0.02076258696615696
     minimum: 273.15966796875
     maximum: 307.686279296875
 - filters:
@@ -24668,7 +24668,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.07732767090201381
+    value: 0.07523786015808587
     minimum: 273.15966796875
     maximum: 307.686279296875
 - filters:
@@ -24796,7 +24796,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.018329267229884882
+    value: 0.018322187064215543
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -24860,7 +24860,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.060151342302560806
+    value: 0.06014428578317166
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -24924,7 +24924,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09205765277147293
+    value: 0.0920478105545044
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -25308,7 +25308,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00028836712590418756
+    value: 0.00028832178213633597
     minimum: -1.951564634256944e-19
     maximum: 2.99029541015625
 - filters:
@@ -25372,7 +25372,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0012159360991790902
+    value: 0.0012157641223166146
     minimum: -1.951564634256944e-19
     maximum: 2.99029541015625
 - filters:
@@ -25436,7 +25436,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0020379677647724753
+    value: 0.0020376190426759444
     minimum: -1.951564634256944e-19
     maximum: 2.99029541015625
 - filters:
@@ -25884,7 +25884,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.014310288820415806
+    value: 0.014309795573353767
     minimum: -7.105430745732791e-15
     maximum: 50.0
 - filters:
@@ -25948,7 +25948,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.08708664774894714
+    value: 0.08708589524030685
     minimum: -7.105430745732791e-15
     maximum: 50.0
 - filters:
@@ -26076,7 +26076,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.022184256464242935
+    value: 0.0221837892048061
     minimum: 273.149658203125
     maximum: 311.761962890625
 - filters:
@@ -26140,7 +26140,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.05008270680904392
+    value: 0.05008213013410575
     minimum: 273.149658203125
     maximum: 311.761962890625
 - filters:
@@ -26204,7 +26204,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09132983535528183
+    value: 0.09132804870605475
     minimum: 273.149658203125
     maximum: 311.761962890625
 - filters:
@@ -26332,7 +26332,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0002140771381091327
+    value: 0.00021270402830850807
     minimum: 0.0
     maximum: 0.015017986297607422
 - filters:
@@ -26396,7 +26396,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00033806036022724587
+    value: 0.00033530042856000364
     minimum: 0.0
     maximum: 0.015017986297607422
 - filters:
@@ -26460,7 +26460,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0005102113093016671
+    value: 0.000505122821778059
     minimum: 0.0
     maximum: 0.015017986297607422
 - filters:
@@ -26652,7 +26652,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.0191215187660437e-05
+    value: 1.0191093679168262e-05
     minimum: 0.5593649744987488
     maximum: 0.8000023365020752
 - filters:
@@ -27136,7 +27136,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0008371582805411909
+    value: 0.0008299185428768396
     minimum: 0.0
     maximum: 0.05089282989501953
 - filters:
@@ -27206,7 +27206,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0013597733341157436
+    value: 0.001343534211628139
     minimum: 0.0
     maximum: 0.05089282989501953
 - filters:
@@ -27276,7 +27276,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0021651077549904585
+    value: 0.002125071594491601
     minimum: 0.0
     maximum: 0.05089282989501953
 - filters:
@@ -27404,7 +27404,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 131.52495704650894
+    value: 131.11189978027346
     minimum: 0.0
     maximum: 10800.0
 - filters:
@@ -27468,7 +27468,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 350.6127624511719
+    value: 350.18865966796875
     minimum: 0.0
     maximum: 10800.0
 - filters:
@@ -27532,7 +27532,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 557.2792358398438
+    value: 556.5424194335938
     minimum: 0.0
     maximum: 10800.0
 - filters:
@@ -27660,7 +27660,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0001574310439173133
+    value: 0.00015646913379896432
     minimum: 0.0
     maximum: 0.0056951045989990234
 - filters:
@@ -27724,7 +27724,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00027844260330311954
+    value: 0.0002746930878493005
     minimum: 0.0
     maximum: 0.0056951045989990234
 - filters:
@@ -27788,7 +27788,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0004923113156110048
+    value: 0.00048322748625651
     minimum: 0.0
     maximum: 0.0056951045989990234
 - filters:
@@ -27916,7 +27916,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.0104418581468053e-05
+    value: 1.9970713226939582e-05
     minimum: 0.0
     maximum: 0.001414179801940918
 - filters:
@@ -27980,7 +27980,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.278583062638063e-05
+    value: 3.255654519307427e-05
     minimum: 0.0
     maximum: 0.001414179801940918
 - filters:
@@ -28044,7 +28044,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.0505052058724687e-05
+    value: 5.007889194530435e-05
     minimum: 0.0
     maximum: 0.001414179801940918
 - filters:
@@ -28172,7 +28172,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.02385849385708571
+    value: 0.023470088839530945
     minimum: 273.15966796875
     maximum: 307.68603515625
 - filters:
@@ -28236,7 +28236,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.04321860522031784
+    value: 0.04280981272459033
     minimum: 273.15966796875
     maximum: 307.68603515625
 - filters:
@@ -28300,7 +28300,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.08051855713129047
+    value: 0.07904218137264252
     minimum: 273.15966796875
     maximum: 307.68603515625
 - filters:
@@ -28428,7 +28428,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.04534350553900004
+    value: 0.04533826230466366
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -28492,7 +28492,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0715834712982178
+    value: 0.07157481819391252
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -28556,7 +28556,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.10330369099974634
+    value: 0.10328805446624756
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -28684,7 +28684,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09850275362282992
+    value: 0.09850275187194348
     minimum: 5.958728434052318e-05
     maximum: 360.00372314453125
 - filters:
@@ -28748,7 +28748,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1917211219668389
+    value: 0.19172109961509712
     minimum: 5.958728434052318e-05
     maximum: 360.00372314453125
 - filters:
@@ -28812,7 +28812,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.34664153456687935
+    value: 0.34664150476455696
     minimum: 5.958728434052318e-05
     maximum: 360.00372314453125
 - filters:
@@ -29068,7 +29068,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.9518774151802064
+    value: 0.9518773436546337
     minimum: 1.1368683772161603e-13
     maximum: 360.0037536621094
 - filters:
@@ -29452,7 +29452,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.03452837314084173
+    value: 0.03452837305888534
     minimum: 198.50611877441406
     maximum: 323.45068359375
 - filters:
@@ -29516,7 +29516,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.061990476474165994
+    value: 0.06199047513306148
     minimum: 198.50611877441406
     maximum: 323.45068359375
 - filters:
@@ -29708,7 +29708,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00011237672879360616
+    value: 0.00011130589700769633
     minimum: 0.0
     maximum: 0.006674766540527344
 - filters:
@@ -29772,7 +29772,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00018996470316778868
+    value: 0.00018786005966831
     minimum: 0.0
     maximum: 0.006674766540527344
 - filters:
@@ -29836,7 +29836,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0003184226807206869
+    value: 0.0003129563992843032
     minimum: 0.0
     maximum: 0.006674766540527344
 - filters:
@@ -29964,7 +29964,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.011663402382284409
+    value: 0.011663401144556707
     minimum: 1.5035629272460938
     maximum: 14.053351402282715
 - filters:
@@ -30028,7 +30028,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.021009523570537567
+    value: 0.021009523402899504
     minimum: 1.5035629272460938
     maximum: 14.053351402282715
 - filters:
@@ -30092,7 +30092,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.029561793804168707
+    value: 0.029561792686581618
     minimum: 1.5035629272460938
     maximum: 14.053351402282715
 - filters:
@@ -30220,7 +30220,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.011578344685956844
+    value: 0.01157834294810892
     minimum: 1.4128694534301758
     maximum: 13.191513061523438
 - filters:
@@ -30284,7 +30284,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.020976331997662787
+    value: 0.020976331494748594
     minimum: 1.4128694534301758
     maximum: 13.191513061523438
 - filters:
@@ -30348,7 +30348,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.029317519068717962
+    value: 0.029317517951130873
     minimum: 1.4128694534301758
     maximum: 13.191513061523438
 - filters:
@@ -30476,7 +30476,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.009420054443180566
+    value: 0.009420053482055669
     minimum: 1.626840591430664
     maximum: 17.72228240966797
 - filters:
@@ -30540,7 +30540,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.017687463015317918
+    value: 0.0176874627918005
     minimum: 1.626840591430664
     maximum: 17.72228240966797
 - filters:
@@ -30604,7 +30604,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.02642439957708121
+    value: 0.02642439818009735
     minimum: 1.626840591430664
     maximum: 17.72228240966797
 - filters:
@@ -30796,7 +30796,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0042687665764242445
+    value: 0.004268766101449732
     minimum: 1.5170059204101562
     maximum: 14.449135780334473
 - filters:
@@ -30860,7 +30860,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.07051952406764032
+    value: 0.07051952183246614
     minimum: 1.5170059204101562
     maximum: 14.449135780334473
 - filters:
@@ -31000,7 +31000,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.697414969444275
+    value: 4.697414967536926
     minimum: 93459.4375
     maximum: 106932.8125
 - filters:
@@ -31070,7 +31070,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.398035988807679
+    value: 6.398035960197451
     minimum: 93459.4375
     maximum: 106932.8125
 - filters:
@@ -31268,7 +31268,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00010559559115790767
+    value: 0.00010559557533269987
     minimum: 2.0935432985424995e-05
     maximum: 0.05515578016638756
 - filters:
@@ -31332,7 +31332,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00024432123405858884
+    value: 0.00024432119476841774
     minimum: 2.0935432985424995e-05
     maximum: 0.05515578016638756
 - filters:
@@ -31396,7 +31396,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00034807241172529757
+    value: 0.0003480724088149146
     minimum: 2.0935432985424995e-05
     maximum: 0.05515578016638756
 - filters:
@@ -31524,7 +31524,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1022302196621895
+    value: 0.10223021900653839
     minimum: 0.0003941489849239588
     maximum: 360.0026550292969
 - filters:
@@ -31588,7 +31588,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.20076474696397797
+    value: 0.2007647275924684
     minimum: 0.0003941489849239588
     maximum: 360.0026550292969
 - filters:
@@ -31652,7 +31652,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.34847240149974834
+    value: 0.34847238659858715
     minimum: 0.0003941489849239588
     maximum: 360.0026550292969
 - filters:
@@ -31780,7 +31780,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.046881377037614615
+    value: 0.04688137309625748
     minimum: 3.5740420571528375e-05
     maximum: 359.9997863769531
 - filters:
@@ -31844,7 +31844,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.08244448803365231
+    value: 0.08244448788464069
     minimum: 3.5740420571528375e-05
     maximum: 359.9997863769531
 - filters:
@@ -31908,7 +31908,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1568431422114373
+    value: 0.15684313327074056
     minimum: 3.5740420571528375e-05
     maximum: 359.9997863769531
 - filters:
@@ -32036,7 +32036,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.03934010037779809
+    value: 0.039340098351240166
     minimum: 6.327335722744465e-05
     maximum: 359.9998474121094
 - filters:
@@ -32100,7 +32100,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.07265407517552377
+    value: 0.07265407219529153
     minimum: 6.327335722744465e-05
     maximum: 359.9998474121094
 - filters:
@@ -32292,7 +32292,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.02726203619688763
+    value: 0.02726201167702688
     minimum: 4.032500146422535e-05
     maximum: 359.9999084472656
 - filters:
@@ -32356,7 +32356,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.07542958147823818
+    value: 0.07542956694960601
     minimum: 4.032500146422535e-05
     maximum: 359.9999084472656
 - filters:
@@ -32548,7 +32548,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.010275122406892481
+    value: 0.010275122029706837
     minimum: 1.626840591430664
     maximum: 15.470529556274414
 - filters:
@@ -32612,7 +32612,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.018982258066534998
+    value: 0.018982257843017578
     minimum: 1.626840591430664
     maximum: 15.470529556274414
 - filters:
@@ -32676,7 +32676,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.027340582571923736
+    value: 0.02734058201313019
     minimum: 1.626840591430664
     maximum: 15.470529556274414
 - filters:
@@ -32804,7 +32804,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00616691041644664
+    value: 0.006166909640654934
     minimum: 0.0
     maximum: 27.714515686035156
 - filters:
@@ -32868,7 +32868,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.01490191273391247
+    value: 0.01490191262215376
     minimum: 0.0
     maximum: 27.714515686035156
 - filters:
@@ -32932,7 +32932,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.023935603257268668
+    value: 0.023935603164136413
     minimum: 0.0
     maximum: 27.714515686035156
 - filters:
@@ -33572,7 +33572,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.034767962235957385
+    value: 0.03476796221360565
     minimum: 199.17767333984375
     maximum: 323.5129089355469
 - filters:
@@ -33636,7 +33636,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.06193365879356864
+    value: 0.061933658346533804
     minimum: 199.17767333984375
     maximum: 323.5129089355469
 - filters:
@@ -33828,7 +33828,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00011279274622211233
+    value: 0.00011232589167775586
     minimum: 0.0
     maximum: 0.006972670555114746
 - filters:
@@ -33892,7 +33892,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0001922227384056896
+    value: 0.00019024994981009513
     minimum: 0.0
     maximum: 0.006972670555114746
 - filters:
@@ -33956,7 +33956,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0003238242934457958
+    value: 0.00031911281985230744
     minimum: 0.0
     maximum: 0.006972670555114746
 - filters:
@@ -34166,7 +34166,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 8.987388401031518
+    value: 8.98738798141482
     minimum: -113959.625
     maximum: 83341.8125
 - filters:
@@ -34364,7 +34364,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0108809221284464
+    value: 0.010880922080948948
     minimum: 1.5035629272460938
     maximum: 16.487850189208984
 - filters:
@@ -34428,7 +34428,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.021186250038444997
+    value: 0.021186249926686287
     minimum: 1.5035629272460938
     maximum: 16.487850189208984
 - filters:
@@ -34492,7 +34492,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.03153374549001456
+    value: 0.03153374381363393
     minimum: 1.5035629272460938
     maximum: 16.487850189208984
 - filters:
@@ -34684,7 +34684,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0037155677704140576
+    value: 0.0037155673885718014
     minimum: 1.424300193786621
     maximum: 12.900032997131348
 - filters:
@@ -34748,7 +34748,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.06379246637225154
+    value: 0.06379246190190319
     minimum: 1.424300193786621
     maximum: 12.900032997131348
 - filters:
@@ -34876,7 +34876,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.012979814019985499
+    value: 0.012979813793674112
     minimum: 1.4128694534301758
     maximum: 15.66753101348877
 - filters:
@@ -34940,7 +34940,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.02565699815750122
+    value: 0.025656996965408334
     minimum: 1.4128694534301758
     maximum: 15.66753101348877
 - filters:
@@ -35004,7 +35004,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.03616393581032756
+    value: 0.03616393320262432
     minimum: 1.4128694534301758
     maximum: 15.66753101348877
 - filters:
@@ -35132,7 +35132,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.016144273832440378
+    value: 0.01612677891179922
     minimum: 0.0
     maximum: 11.552001953125
 - filters:
@@ -35196,7 +35196,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.03567699328064919
+    value: 0.0356620478630066
     minimum: 0.0
     maximum: 11.552001953125
 - filters:
@@ -35260,7 +35260,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.056567070633173
+    value: 0.05653966143727307
     minimum: 0.0
     maximum: 11.552001953125
 - filters:
@@ -35772,7 +35772,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09224469363689512
+    value: 0.09224454164505104
     minimum: -99.85249328613281
     maximum: 5.7723846435546875
 - filters:
@@ -35964,7 +35964,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 7.090926041603109
+    value: 7.0909217119217125
     minimum: -2161.465576171875
     maximum: -0.21142578125
 - filters:
@@ -36156,7 +36156,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0069077039877884095
+    value: 0.006907703951932491
     minimum: 1.8260269165039062
     maximum: 21.286476135253906
 - filters:
@@ -36220,7 +36220,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.011528718946501615
+    value: 0.01152871882542968
     minimum: 1.8260269165039062
     maximum: 21.286476135253906
 - filters:
@@ -36284,7 +36284,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.017181695159524682
+    value: 0.017181695066392423
     minimum: 1.8260269165039062
     maximum: 21.286476135253906
 - filters:
@@ -36796,7 +36796,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0004684455532697031
+    value: 0.0004684455023379998
     minimum: 1.008559226989746
     maximum: 1.5087862014770508
 - filters:
@@ -36924,7 +36924,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00024999803281389177
+    value: 0.00024834179203025997
     minimum: 0.0
     maximum: 0.038051605224609375
 - filters:
@@ -36988,7 +36988,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00040313435602001846
+    value: 0.00040005455957725644
     minimum: 0.0
     maximum: 0.038051605224609375
 - filters:
@@ -37052,7 +37052,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0006641153595410287
+    value: 0.0006565314834006131
     minimum: 0.0
     maximum: 0.038051605224609375
 - filters:
@@ -37448,7 +37448,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.139659119071447e-05
+    value: 6.135114128119315e-05
     minimum: 0.0
     maximum: 10.0
 - filters:
@@ -37518,7 +37518,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.000557987182401121
+    value: 0.0005578240251634272
     minimum: 0.0
     maximum: 10.0
 - filters:
@@ -37588,7 +37588,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.012603079900145538
+    value: 0.012582298461347832
     minimum: 0.0
     maximum: 10.0
 - filters:
@@ -38240,7 +38240,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00021457040094537665
+    value: 0.000213125377194956
     minimum: 0.0
     maximum: 0.015017986297607422
 - filters:
@@ -38310,7 +38310,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00034036103170365095
+    value: 0.00033753865864127874
     minimum: 0.0
     maximum: 0.015017986297607422
 - filters:
@@ -38380,7 +38380,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0005174471472855659
+    value: 0.0005120327696204185
     minimum: 0.0
     maximum: 0.015017986297607422
 - filters:
@@ -38508,7 +38508,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.002794284770498053
+    value: 0.0027942847204394648
     minimum: 0.0
     maximum: 9.215383529663086
 - filters:
@@ -38572,7 +38572,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0060194745380431425
+    value: 0.00601947443559766
     minimum: 0.0
     maximum: 9.215383529663086
 - filters:
@@ -38764,7 +38764,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.03749611420929433
+    value: 0.03741899061203006
     minimum: 2.5054006382008685e-16
     maximum: 14.479736328125
 - filters:
@@ -38828,7 +38828,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.07872506976127625
+    value: 0.0786541596055031
     minimum: 2.5054006382008685e-16
     maximum: 14.479736328125
 - filters:
@@ -38892,7 +38892,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.12770391851663593
+    value: 0.12756048440933235
     minimum: 2.5054006382008685e-16
     maximum: 14.479736328125
 - filters:
@@ -39032,7 +39032,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0016599829701008488
+    value: 0.0016549614409450467
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -39102,7 +39102,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.010282573569566012
+    value: 0.010276325047016144
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -39172,7 +39172,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.026862546801567078
+    value: 0.026850285567343254
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -39300,7 +39300,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.03212071503326297
+    value: 0.03212071493640543
     minimum: 196.98565673828125
     maximum: 345.1591796875
 - filters:
@@ -39364,7 +39364,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.055978663116693514
+    value: 0.05597866281867029
     minimum: 196.98565673828125
     maximum: 345.1591796875
 - filters:
@@ -40348,7 +40348,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.609807402128356e-05
+    value: 6.544463093450763e-05
     minimum: 0.0
     maximum: 0.012291908264160156
 - filters:
@@ -40412,7 +40412,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00013579532795120032
+    value: 0.00013415547640761364
     minimum: 0.0
     maximum: 0.012291908264160156
 - filters:
@@ -40476,7 +40476,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00027287673729006203
+    value: 0.0002683142432942991
     minimum: 0.0
     maximum: 0.012291908264160156
 - filters:
@@ -40616,7 +40616,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.41627098989487
+    value: 5.416270931720737
     minimum: 50937.25390625
     maximum: 105449.125
 - filters:
@@ -40686,7 +40686,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 7.902991762161256
+    value: 7.902991743087769
     minimum: 50937.25390625
     maximum: 105449.125
 - filters:
@@ -40884,7 +40884,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.747196165524656e-08
+    value: 1.715213748809674e-08
     minimum: -1.3877792505941842e-21
     maximum: 0.001185297966003418
 - filters:
@@ -40948,7 +40948,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.8274632768443553e-07
+    value: 2.614602277617469e-07
     minimum: -1.3877792505941842e-21
     maximum: 0.001185297966003418
 - filters:
@@ -41012,7 +41012,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 7.015446180957953e-06
+    value: 6.540054482684355e-06
     minimum: -1.3877792505941842e-21
     maximum: 0.001185297966003418
 - filters:
@@ -41140,7 +41140,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0003414192692434881
+    value: 0.0003306714352220297
     minimum: 0.0
     maximum: 0.03118753433227539
 - filters:
@@ -41204,7 +41204,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0008705048821866512
+    value: 0.0008333586953813222
     minimum: 0.0
     maximum: 0.03118753433227539
 - filters:
@@ -41268,7 +41268,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0019646366126835346
+    value: 0.0019281867425888777
     minimum: 0.0
     maximum: 0.03118753433227539
 - filters:
@@ -41408,7 +41408,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1601.6173300781254
+    value: 1601.6173222656255
     minimum: -10165775.0
     maximum: 4417869.0
 - filters:
@@ -41478,7 +41478,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3335.714589843751
+    value: 3335.714570312501
     minimum: -10165775.0
     maximum: 4417869.0
 - filters:
@@ -41688,7 +41688,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1384.326171875
+    value: 1384.0960693359375
     minimum: 1.0799998916011244e-11
     maximum: 11733248.0
 - filters:
@@ -41758,7 +41758,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3316.4905517578195
+    value: 3315.43603515625
     minimum: 1.0799998916011244e-11
     maximum: 11733248.0
 - filters:
@@ -41828,7 +41828,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 14674.8408203125
+    value: 14662.452050781252
     minimum: 1.0799998916011244e-11
     maximum: 11733248.0
 - filters:
@@ -41968,7 +41968,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 826.3145751953125
+    value: 826.3135375976562
     minimum: 0.0
     maximum: 11699200.0
 - filters:
@@ -42038,7 +42038,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1448.6444091796875
+    value: 1448.587158203125
     minimum: 0.0
     maximum: 11699200.0
 - filters:
@@ -42108,7 +42108,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3045.504638671875
+    value: 3045.269775390625
     minimum: 0.0
     maximum: 11699200.0
 - filters:
@@ -42248,7 +42248,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1856.1507265625
+    value: 1856.10791015625
     minimum: 0.0
     maximum: 13804800.0
 - filters:
@@ -42318,7 +42318,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4456.433027343758
+    value: 4455.306308593751
     minimum: 0.0
     maximum: 13804800.0
 - filters:
@@ -42388,7 +42388,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 18409.336328125013
+    value: 18398.630859375
     minimum: 0.0
     maximum: 13804800.0
 - filters:
@@ -42516,7 +42516,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1032.3201904296877
+    value: 1032.2962802734382
     minimum: 0.0
     maximum: 13575936.0
 - filters:
@@ -42580,7 +42580,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1948.676025390625
+    value: 1948.6398291015626
     minimum: 0.0
     maximum: 13575936.0
 - filters:
@@ -42644,7 +42644,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3573.52978515625
+    value: 3573.457275390625
     minimum: 0.0
     maximum: 13575936.0
 - filters:
@@ -42772,7 +42772,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00012726086424663663
+    value: 0.0001269671047339216
     minimum: 0.0
     maximum: 0.020215511322021484
 - filters:
@@ -42836,7 +42836,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00020210696675349027
+    value: 0.00020156327809672803
     minimum: 0.0
     maximum: 0.020215511322021484
 - filters:
@@ -42900,7 +42900,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0003240689111407846
+    value: 0.00032280886080116034
     minimum: 0.0
     maximum: 0.020215511322021484
 - filters:
@@ -43436,7 +43436,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09315028004348283
+    value: 0.09315027929842476
     minimum: 213.9403839111328
     maximum: 336.98046875
 - filters:
@@ -43692,7 +43692,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.06880730353295808
+    value: 0.06880730278790001
     minimum: 214.4923858642578
     maximum: 319.751708984375
 - filters:
@@ -43884,7 +43884,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.010258283251896524
+    value: 0.010258282823488141
     minimum: 215.8304443359375
     maximum: 314.046142578125
 - filters:
@@ -43948,7 +43948,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.03897485733032244
+    value: 0.03897485435009018
     minimum: 215.8304443359375
     maximum: 314.046142578125
 - filters:
@@ -44140,7 +44140,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.012621125159785158
+    value: 0.012621125066652899
     minimum: 215.06748962402344
     maximum: 313.5655517578125
 - filters:
@@ -44204,7 +44204,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0444852074608207
+    value: 0.044485207088291664
     minimum: 215.06748962402344
     maximum: 313.5655517578125
 - filters:
@@ -44344,7 +44344,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2647.6476494140634
+    value: 2647.6476357421884
     minimum: -4456872.0
     maximum: 691170.0
 - filters:
@@ -44414,7 +44414,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5866.354482421876
+    value: 5866.354462890626
     minimum: -4456872.0
     maximum: 691170.0
 - filters:
@@ -44484,7 +44484,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 15623.528173828141
+    value: 15623.52788085939
     minimum: -4456872.0
     maximum: 691170.0
 - filters:
@@ -44624,7 +44624,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2471.8196743164067
+    value: 2471.819667480469
     minimum: -4813891.0
     maximum: 483826.0
 - filters:
@@ -44694,7 +44694,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4042.440419921876
+    value: 4042.440400390626
     minimum: -4813891.0
     maximum: 483826.0
 - filters:
@@ -44764,7 +44764,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6745.796850585941
+    value: 6745.796801757815
     minimum: -4813891.0
     maximum: 483826.0
 - filters:
@@ -44892,7 +44892,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4839.126070800781
+    value: 4839.126063964844
     minimum: 565162.25
     maximum: 5537399.5
 - filters:
@@ -44956,7 +44956,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 8009.5488232421885
+    value: 8009.548813476563
     minimum: 565162.25
     maximum: 5537399.5
 - filters:
@@ -45020,7 +45020,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 14551.436425781261
+    value: 14551.43623046876
     minimum: 565162.25
     maximum: 5537399.5
 - filters:
@@ -45148,7 +45148,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2661.2904270019535
+    value: 2661.29042163086
     minimum: 559900.0625
     maximum: 5543933.5
 - filters:
@@ -45212,7 +45212,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4080.913325195313
+    value: 4080.913315429688
     minimum: 559900.0625
     maximum: 5543933.5
 - filters:
@@ -45404,7 +45404,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.003844058638205752
+    value: 0.0038440585718490187
     minimum: 0.031775251030921936
     maximum: 14.568273544311523
 - filters:
@@ -45468,7 +45468,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.008996607130393389
+    value: 0.0089966063387692
     minimum: 0.031775251030921936
     maximum: 14.568273544311523
 - filters:
@@ -45532,7 +45532,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.01596009265631438
+    value: 0.015960089862346656
     minimum: 0.031775251030921936
     maximum: 14.568273544311523
 - filters:
@@ -45660,7 +45660,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.004144845498725773
+    value: 0.004144845435395837
     minimum: 0.0
     maximum: 9.238747596740723
 - filters:
@@ -45724,7 +45724,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0074604548886418355
+    value: 0.0074604547768831265
     minimum: 0.0
     maximum: 9.238747596740723
 - filters:
@@ -45916,7 +45916,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.004143999826628716
+    value: 0.004143999247811735
     minimum: 0.0
     maximum: 4.627197265625
 - filters:
@@ -45980,7 +45980,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.006497845589183271
+    value: 0.006497844639234246
     minimum: 0.0
     maximum: 4.627197265625
 - filters:
@@ -46044,7 +46044,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.009959175484254961
+    value: 0.009959168778732427
     minimum: 0.0
     maximum: 4.627197265625
 - filters:
@@ -46172,7 +46172,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.003332173594273627
+    value: 0.0033321700063534084
     minimum: 0.0
     maximum: 2.9183349609375
 - filters:
@@ -46236,7 +46236,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.005304140485823156
+    value: 0.005304135931655765
     minimum: 0.0
     maximum: 2.9183349609375
 - filters:
@@ -46300,7 +46300,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.008356311079114678
+    value: 0.00835629780776799
     minimum: 0.0
     maximum: 2.9183349609375
 - filters:
@@ -46684,7 +46684,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0010925222396617757
+    value: 0.0010925222347723323
     minimum: -0.00019492715364322066
     maximum: 0.765361487865448
 - filters:
@@ -46940,7 +46940,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0014073500283993793
+    value: 0.00140735000325367
     minimum: -0.00021687353728339076
     maximum: 0.7640780806541443
 - filters:
@@ -47260,7 +47260,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00029528879123972787
+    value: 0.00029528740560635924
     minimum: 0.0
     maximum: 0.7501220703125
 - filters:
@@ -47452,7 +47452,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.035471304476261144
+    value: 0.035471304416656496
     minimum: 197.7117156982422
     maximum: 323.8885192871094
 - filters:
@@ -47516,7 +47516,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.06606632411479957
+    value: 0.06606632292270667
     minimum: 197.7117156982422
     maximum: 323.8885192871094
 - filters:
@@ -47580,7 +47580,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.13832335099577914
+    value: 0.138323349505663
     minimum: 197.7117156982422
     maximum: 323.8885192871094
 - filters:
@@ -47976,7 +47976,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.036312431488186137
+    value: 0.036303106341511016
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -48046,7 +48046,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.06869570247828961
+    value: 0.06868593618273736
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -48116,7 +48116,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09925441108644012
+    value: 0.09923785738646987
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -48244,7 +48244,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.03918320294469597
+    value: 0.038903630882501615
     minimum: 0.0
     maximum: 2.548828125
 - filters:
@@ -48308,7 +48308,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.06324005708098412
+    value: 0.062678456902504
     minimum: 0.0
     maximum: 2.548828125
 - filters:
@@ -48372,7 +48372,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09857559204101562
+    value: 0.09735746681690216
     minimum: 0.0
     maximum: 2.548828125
 - filters:
@@ -48500,7 +48500,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.04155690072104335
+    value: 0.041445444121956825
     minimum: 0.0
     maximum: 2.3233642578125
 - filters:
@@ -48564,7 +48564,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0663551390171051
+    value: 0.06605188548564911
     minimum: 0.0
     maximum: 2.3233642578125
 - filters:
@@ -48628,7 +48628,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.10381957851350311
+    value: 0.10316335409879684
     minimum: 0.0
     maximum: 2.3233642578125
 - filters:
@@ -48768,7 +48768,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.236730987940974e-06
+    value: 4.236730960656134e-06
     minimum: 0.003597905859351158
     maximum: 0.01114380732178688
 - filters:
@@ -48838,7 +48838,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.176936026349723e-06
+    value: 6.176935999064883e-06
     minimum: 0.003597905859351158
     maximum: 0.01114380732178688
 - filters:
@@ -49036,7 +49036,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.18222802877426147
+    value: 0.18020211160182953
     minimum: 0.0
     maximum: 5.83056640625
 - filters:
@@ -49100,7 +49100,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.31235384941101074
+    value: 0.3047943115234375
     minimum: 0.0
     maximum: 5.83056640625
 - filters:
@@ -49164,7 +49164,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.5466192364692688
+    value: 0.5267915725708008
     minimum: 0.0
     maximum: 5.83056640625
 - filters:
@@ -49292,7 +49292,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.03227235341072083
+    value: 0.03198955468833448
     minimum: 0.0
     maximum: 1.6148681640625
 - filters:
@@ -49356,7 +49356,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.055422822386026395
+    value: 0.05478769101202489
     minimum: 0.0
     maximum: 1.6148681640625
 - filters:
@@ -49420,7 +49420,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09409526735544205
+    value: 0.09261619299650192
     minimum: 0.0
     maximum: 1.6148681640625
 - filters:
@@ -49548,7 +49548,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.30143747562170037
+    value: 0.29825425148010254
     minimum: 0.0
     maximum: 14.53662109375
 - filters:
@@ -49612,7 +49612,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.4902855157852173
+    value: 0.483674420118332
     minimum: 0.0
     maximum: 14.53662109375
 - filters:
@@ -49676,7 +49676,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.7689019024372108
+    value: 0.7552298903465271
     minimum: 0.0
     maximum: 14.53662109375
 - filters:
@@ -49804,7 +49804,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.18142719559371473
+    value: 0.18142719499766827
     minimum: 0.06613296270370483
     maximum: 103.84686279296875
 - filters:
@@ -50072,7 +50072,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.14352821403741836
+    value: 0.1435282135605812
     minimum: 0.06613266468048096
     maximum: 86.49613952636719
 - filters:
@@ -50596,7 +50596,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.010865475388243808
+    value: 0.010865470927208675
     minimum: 1.9741392135620117
     maximum: 14.261241912841797
 - filters:
@@ -50660,7 +50660,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.01987986674532295
+    value: 0.01987986478954554
     minimum: 1.9741392135620117
     maximum: 14.261241912841797
 - filters:
@@ -50724,7 +50724,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.028295090328902008
+    value: 0.02829508986324072
     minimum: 1.9741392135620117
     maximum: 14.261241912841797
 - filters:
@@ -50852,7 +50852,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.29285797372460376
+    value: 0.2928579716384412
     minimum: -54.6821174621582
     maximum: 63.368717193603516
 - filters:
@@ -50916,7 +50916,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.4146181935071946
+    value: 0.41461819231510166
     minimum: -54.6821174621582
     maximum: 63.368717193603516
 - filters:
@@ -50980,7 +50980,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.5819695562124256
+    value: 0.5819695502519611
     minimum: -54.6821174621582
     maximum: 63.368717193603516
 - filters:
@@ -51064,8 +51064,6 @@ recommendations:
     filters:
     - kind: tag
       value: absolute
-    - kind: tag
-      value: pick
   requirements:
   - kind: max-pointwise-absolute-error-bound
     value: 2.384185791015625e-07
@@ -51106,9 +51104,11 @@ recommendations:
     filters:
     - kind: tag
       value: quadratic
+    - kind: tag
+      value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00109656632412225
+    value: 0.0010893411235883832
     minimum: 0.0
     maximum: 0.0657806396484375
 - filters:
@@ -51172,7 +51172,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0017924066632986069
+    value: 0.0017775907181203365
     minimum: 0.0
     maximum: 0.0657806396484375
 - filters:
@@ -51236,7 +51236,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0029289751313626806
+    value: 0.0028923627338372183
     minimum: 0.0
     maximum: 0.0657806396484375
 - filters:
@@ -51364,7 +51364,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.5552445650100708
+    value: 0.5541365742683411
     minimum: -1.0000009536743164
     maximum: 2157.625
 - filters:
@@ -51428,7 +51428,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 20.715864944458044
+    value: 20.485648536682135
     minimum: -1.0000009536743164
     maximum: 2157.625
 - filters:
@@ -51492,7 +51492,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 56.14615020751957
+    value: 55.98554992675781
     minimum: -1.0000009536743164
     maximum: 2157.625
 - filters:
@@ -51748,7 +51748,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 43.92938385009768
+    value: 43.919356918334984
     minimum: -1.0000009536743164
     maximum: 2363.5625
 - filters:
@@ -52168,7 +52168,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1289.9745642089845
+    value: 1289.9639095458986
     minimum: 0.0
     maximum: 14119936.0
 - filters:
@@ -52238,7 +52238,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3628.251940917969
+    value: 3628.0770654296934
     minimum: 0.0
     maximum: 14119936.0
 - filters:
@@ -52308,7 +52308,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 10702.1513671875
+    value: 10700.791357421878
     minimum: 0.0
     maximum: 14119936.0
 - filters:
@@ -52500,7 +52500,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 451.6038818359375
+    value: 451.6002801513675
     minimum: 0.0
     maximum: 14044928.0
 - filters:
@@ -52564,7 +52564,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 692.5577392578125
+    value: 692.5527954101562
     minimum: 0.0
     maximum: 14044928.0
 - filters:
@@ -52704,7 +52704,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1362.8222408447266
+    value: 1362.8222401123048
     minimum: -4389016.0
     maximum: -803828.0
 - filters:
@@ -52774,7 +52774,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2658.418693847657
+    value: 2658.4186791992197
     minimum: -4389016.0
     maximum: -803828.0
 - filters:
@@ -52972,7 +52972,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1041.7795404052736
+    value: 1041.7795385742188
     minimum: -4420227.0
     maximum: -989528.0
 - filters:
@@ -53036,7 +53036,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1643.6917651367196
+    value: 1643.6917431640634
     minimum: -4420227.0
     maximum: -989528.0
 - filters:
@@ -53740,7 +53740,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.034685420166701085
+    value: 0.034685420010238895
     minimum: -35.89154052734375
     maximum: 29.37139892578125
 - filters:
@@ -53996,7 +53996,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.06146857938915493
+    value: 0.061468578927218936
     minimum: -46.42442321777344
     maximum: 36.92298889160156
 - filters:
@@ -54060,7 +54060,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.10088892273604871
+    value: 0.10088892258703709
     minimum: -46.42442321777344
     maximum: 36.92298889160156
 - filters:
@@ -54124,7 +54124,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.15414470359683047
+    value: 0.15414470210671433
     minimum: -46.42442321777344
     maximum: 36.92298889160156
 - filters:
@@ -54252,7 +54252,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.015185759752988817
+    value: 0.015185759708285335
     minimum: -35.82395935058594
     maximum: 29.507339477539062
 - filters:
@@ -54316,7 +54316,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.040119953081011815
+    value: 0.04011995233595375
     minimum: -35.82395935058594
     maximum: 29.507339477539062
 - filters:
@@ -54508,7 +54508,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00018235597708553543
+    value: 0.00018235597385501026
     minimum: -0.8316658735275269
     maximum: 0.7906268835067749
 - filters:
@@ -54572,7 +54572,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0006391084898496048
+    value: 0.0006391084770439193
     minimum: -0.8316658735275269
     maximum: 0.7906268835067749
 - filters:
@@ -54636,7 +54636,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.001170037052361296
+    value: 0.001170036854455249
     minimum: -0.8316658735275269
     maximum: 0.7906268835067749
 - filters:
@@ -54764,7 +54764,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 25.303329608917238
+    value: 25.301361083984375
     minimum: 0.0
     maximum: 1571840.0
 - filters:
@@ -54828,7 +54828,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 75.35675048828125
+    value: 75.33358001708984
     minimum: 0.0
     maximum: 1571840.0
 - filters:
@@ -54892,7 +54892,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1066.4152099609425
+    value: 1065.5807678222693
     minimum: 0.0
     maximum: 1571840.0
 - filters:
@@ -55020,7 +55020,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.034165159586817026
+    value: 0.03416515953466297
     minimum: -25.163375854492188
     maximum: 28.833724975585938
 - filters:
@@ -55084,7 +55084,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.06197810914367438
+    value: 0.06197810906916857
     minimum: -25.163375854492188
     maximum: 28.833724975585938
 - filters:
@@ -55148,7 +55148,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1048681285232306
+    value: 0.10486812777817253
     minimum: -25.163375854492188
     maximum: 28.833724975585938
 - filters:
@@ -55276,7 +55276,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.06381859032809735
+    value: 0.06381859029829502
     minimum: -33.37272644042969
     maximum: 35.36541748046875
 - filters:
@@ -55532,7 +55532,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.01514109272882343
+    value: 0.0151410925872624
     minimum: -25.421234130859375
     maximum: 28.950103759765625
 - filters:
@@ -55596,7 +55596,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.04057952739298346
+    value: 0.04057952694594863
     minimum: -25.421234130859375
     maximum: 28.950103759765625
 - filters:
@@ -55660,7 +55660,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.093445858731866
+    value: 0.09344585649669182
     minimum: -25.421234130859375
     maximum: 28.950103759765625
 - filters:
@@ -56044,7 +56044,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00018311581981834025
+    value: 0.00018311581760644915
     minimum: -0.7748424410820007
     maximum: 0.7580317258834839
 - filters:
@@ -56108,7 +56108,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0006508284597657622
+    value: 0.0006508284434676171
     minimum: -0.7748424410820007
     maximum: 0.7580317258834839
 - filters:
@@ -56172,7 +56172,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0011676995200105014
+    value: 0.001167699485085905
     minimum: -0.7748424410820007
     maximum: 0.7580317258834839
 - filters:
@@ -56300,7 +56300,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0007638357521500446
+    value: 0.0007638356386451059
     minimum: 0.21815532445907593
     maximum: 1.3629987239837646
 - filters:
@@ -56364,7 +56364,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.001444547846913338
+    value: 0.0014445477910339836
     minimum: 0.21815532445907593
     maximum: 1.3629987239837646
 - filters:
@@ -56428,7 +56428,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0021006722003221513
+    value: 0.002100672177039087
     minimum: 0.21815532445907593
     maximum: 1.3629987239837646
 - filters:
@@ -56556,7 +56556,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.10030625760555267
+    value: 0.10030579954385763
     minimum: 2.0
     maximum: 35.5048828125
 - filters:
@@ -56620,7 +56620,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1499820351600647
+    value: 0.14997975528240204
     minimum: 2.0
     maximum: 35.5048828125
 - filters:
@@ -56684,7 +56684,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.2151888482272625
+    value: 0.21518526598811155
     minimum: 2.0
     maximum: 35.5048828125
 - filters:
@@ -57132,7 +57132,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.7818625892687126e-05
+    value: 1.781862572897808e-05
     minimum: -0.33000004291534424
     maximum: 0.999330997467041
 - filters:
@@ -57324,7 +57324,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.006655613078270109
+    value: 0.006655612836591901
     minimum: 1.2093429565429688
     maximum: 38.30455780029297
 - filters:
@@ -57388,7 +57388,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.011946460828185086
+    value: 0.011946460157632831
     minimum: 1.2093429565429688
     maximum: 38.30455780029297
 - filters:
@@ -57452,7 +57452,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.020338872727006678
+    value: 0.02033887077122928
     minimum: 1.2093429565429688
     maximum: 38.30455780029297
 - filters:
@@ -57580,7 +57580,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.258186546780055e-05
+    value: 5.25818615460594e-05
     minimum: 0.00044449022971093655
     maximum: 0.09827898442745209
 - filters:
@@ -57644,7 +57644,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 9.340679178421852e-05
+    value: 9.340679134766106e-05
     minimum: 0.00044449022971093655
     maximum: 0.09827898442745209
 - filters:
@@ -57708,7 +57708,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00014098387255216956
+    value: 0.0001409838623658289
     minimum: 0.00044449022971093655
     maximum: 0.09827898442745209
 - filters:
@@ -57836,7 +57836,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.010492101678624757
+    value: 0.010490841902792467
     minimum: 0.0
     maximum: 2.840087890625
 - filters:
@@ -57900,7 +57900,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.017000708729028702
+    value: 0.01700032502412796
     minimum: 0.0
     maximum: 2.840087890625
 - filters:
@@ -57964,7 +57964,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.023778013233095408
+    value: 0.023777225986123085
     minimum: 0.0
     maximum: 2.840087890625
 - filters:
@@ -58372,7 +58372,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.005016909628640861
+    value: 0.005016909620258958
     minimum: 0.0031248615123331547
     maximum: 1.728613018989563
 - filters:
@@ -58500,7 +58500,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.011692406563088304
+    value: 0.011692406469956045
     minimum: 0.0031248615123331547
     maximum: 1.728613018989563
 - filters:
@@ -58646,7 +58646,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.07231570035219193
+    value: 0.07096311334520586
     minimum: 0.0
     maximum: 0.890625
 - filters:
@@ -58719,7 +58719,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1273057758808136
+    value: 0.12341006845235825
     minimum: 0.0
     maximum: 0.890625
 - filters:
@@ -58792,7 +58792,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.21875
+    value: 0.21355733275413513
     minimum: 0.0
     maximum: 0.890625
 - filters:
@@ -58938,7 +58938,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.04247787594795227
+    value: 0.041025642305612564
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -59011,7 +59011,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.06453471630811691
+    value: 0.0634920671582222
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -59084,7 +59084,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.10588645190000534
+    value: 0.10022107511758804
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -59230,7 +59230,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.017152657732367516
+    value: 0.015699466690421104
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -59303,7 +59303,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.06681405007839203
+    value: 0.06458333134651184
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -59376,7 +59376,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1149425283074379
+    value: 0.1118881106376648
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -59522,7 +59522,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.003703703638166189
+    value: 0.0026041667442768812
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -59595,7 +59595,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.024132730439305305
+    value: 0.01875000074505806
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -59668,7 +59668,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.08995983749628067
+    value: 0.0765027329325676
     minimum: 0.0
     maximum: 1.0
 - filters:
@@ -59814,7 +59814,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.887779791891035e-08
+    value: 5.8741795285754964e-08
     minimum: 0.0
     maximum: 1.5874393284320831e-06
 - filters:
@@ -59887,7 +59887,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 9.157426092087917e-08
+    value: 9.11956689719773e-08
     minimum: 0.0
     maximum: 1.5874393284320831e-06
 - filters:
@@ -59960,7 +59960,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.7465312822650967e-07
+    value: 1.7304178356880603e-07
     minimum: 0.0
     maximum: 1.5874393284320831e-06
 - filters:
@@ -60106,7 +60106,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 7.2264615482708905e-06
+    value: 7.0912301453063264e-06
     minimum: 0.0
     maximum: 0.0004363059997558594
 - filters:
@@ -60179,7 +60179,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.2756106116285082e-05
+    value: 1.2409500413923524e-05
     minimum: 0.0
     maximum: 0.0004363059997558594
 - filters:
@@ -60252,7 +60252,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.2250384063227102e-05
+    value: 2.134288297384046e-05
     minimum: 0.0
     maximum: 0.0004363059997558594
 - filters:
@@ -60398,7 +60398,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.011364702208084e-06
+    value: 9.96738549474685e-07
     minimum: 0.0
     maximum: 0.00016754865646362305
 - filters:
@@ -60471,7 +60471,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.392389433225617e-06
+    value: 2.3238851554197026e-06
     minimum: 0.0
     maximum: 0.00016754865646362305
 - filters:
@@ -60544,7 +60544,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.605074420600431e-06
+    value: 5.400537702371366e-06
     minimum: 0.0
     maximum: 0.00016754865646362305
 - filters:
@@ -60690,7 +60690,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.230632847182278e-06
+    value: 1.1947434848025298e-06
     minimum: 0.0
     maximum: 0.00017523765563964844
 - filters:
@@ -60763,7 +60763,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.800971287797438e-06
+    value: 2.6485447506274795e-06
     minimum: 0.0
     maximum: 0.00017523765563964844
 - filters:
@@ -60836,7 +60836,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.487238351837732e-06
+    value: 6.0616471273533534e-06
     minimum: 0.0
     maximum: 0.00017523765563964844
 - filters:
@@ -61274,7 +61274,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.869595274227323e-05
+    value: 3.769027483940594e-05
     minimum: 0.0
     maximum: 0.0005421638488769531
 - filters:
@@ -61347,7 +61347,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.303140449745121e-05
+    value: 6.121441401774064e-05
     minimum: 0.0
     maximum: 0.0005421638488769531
 - filters:
@@ -61420,7 +61420,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 9.123064228333533e-05
+    value: 8.861296373652294e-05
     minimum: 0.0
     maximum: 0.0005421638488769531
 - filters:
@@ -61566,7 +61566,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.172595905809434e-05
+    value: 6.0834306816104824e-05
     minimum: 0.0
     maximum: 0.0017747879028320312
 - filters:
@@ -61639,7 +61639,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0001078656132449396
+    value: 0.0001058272464433685
     minimum: 0.0
     maximum: 0.0017747879028320312
 - filters:
@@ -61712,7 +61712,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00018215413729194552
+    value: 0.0001777165598468855
     minimum: 0.0
     maximum: 0.0017747879028320312
 - filters:
@@ -61858,7 +61858,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.870212458423339e-05
+    value: 3.5988701976748446e-05
     minimum: 0.0
     maximum: 0.0017747879028320312
 - filters:
@@ -61931,7 +61931,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 8.007914017071022e-05
+    value: 7.230349023302551e-05
     minimum: 0.0
     maximum: 0.0017747879028320312
 - filters:
@@ -62004,7 +62004,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00016452519048471004
+    value: 0.00014135148376226425
     minimum: 0.0
     maximum: 0.0017747879028320312
 - filters:
@@ -62442,7 +62442,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.4722223062999547e-05
+    value: 3.4374585338809994e-05
     minimum: 0.0
     maximum: 0.0002431534230709076
 - filters:
@@ -62515,7 +62515,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.781638152257074e-05
+    value: 5.7066351000685276e-05
     minimum: 0.0
     maximum: 0.0002431534230709076
 - filters:
@@ -62588,7 +62588,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 8.770624117460102e-05
+    value: 8.621065353509039e-05
     minimum: 0.0
     maximum: 0.0002431534230709076
 - filters:
@@ -62734,7 +62734,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.902919903746806e-05
+    value: 5.808772033196875e-05
     minimum: 0.0
     maximum: 0.0013110041618347168
 - filters:
@@ -62807,7 +62807,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00010291391663486138
+    value: 0.00010025922529166564
     minimum: 0.0
     maximum: 0.0013110041618347168
 - filters:
@@ -62880,7 +62880,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00016917473112698644
+    value: 0.00016404199413955212
     minimum: 0.0
     maximum: 0.0013110041618347168
 - filters:
@@ -63026,7 +63026,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.4413260727887973e-05
+    value: 3.4090804518200466e-05
     minimum: 0.0
     maximum: 0.0011250674724578857
 - filters:
@@ -63099,7 +63099,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.8454333193367373e-05
+    value: 5.7555615458113625e-05
     minimum: 0.0
     maximum: 0.0011250674724578857
 - filters:
@@ -63172,7 +63172,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00010277216642862186
+    value: 0.00010055580059997737
     minimum: 0.0
     maximum: 0.0011250674724578857
 - filters:
@@ -63318,7 +63318,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.201654640352161e-09
+    value: 5.201629879714176e-09
     minimum: 0.0
     maximum: 2.7032001526094973e-08
 - filters:
@@ -63391,7 +63391,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 7.322668693632296e-09
+    value: 7.322626025541013e-09
     minimum: 0.0
     maximum: 2.7032001526094973e-08
 - filters:
@@ -63464,7 +63464,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.0065062339137398e-08
+    value: 1.0065058875241561e-08
     minimum: 0.0
     maximum: 2.7032001526094973e-08
 - filters:
@@ -63610,7 +63610,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 8.524775330442935e-05
+    value: 8.39911448420026e-05
     minimum: 0.0
     maximum: 0.003865659236907959
 - filters:
@@ -63683,7 +63683,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0001421671622665599
+    value: 0.00013883921201340854
     minimum: 0.0
     maximum: 0.003865659236907959
 - filters:
@@ -63756,7 +63756,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0002303662186022848
+    value: 0.0002230483223684132
     minimum: 0.0
     maximum: 0.003865659236907959
 - filters:
@@ -63902,7 +63902,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.937592160378699e-05
+    value: 2.89824251740356e-05
     minimum: 0.0
     maximum: 0.0015426576137542725
 - filters:
@@ -63975,7 +63975,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.771393803821412e-05
+    value: 4.697465901699616e-05
     minimum: 0.0
     maximum: 0.0015426576137542725
 - filters:
@@ -64048,7 +64048,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 7.534477481385693e-05
+    value: 7.373075641226023e-05
     minimum: 0.0
     maximum: 0.0015426576137542725
 - filters:
@@ -64194,7 +64194,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.7030890123569407e-05
+    value: 2.6900038505118575e-05
     minimum: 0.0
     maximum: 0.0015289485454559326
 - filters:
@@ -64267,7 +64267,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.3107251258334145e-05
+    value: 4.26815233367961e-05
     minimum: 0.0
     maximum: 0.0015289485454559326
 - filters:
@@ -64340,7 +64340,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.58380708046025e-05
+    value: 6.497678987216204e-05
     minimum: 0.0
     maximum: 0.0015289485454559326
 - filters:
@@ -64498,7 +64498,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.2538084448578958e-06
+    value: 1.25380844326628e-06
     minimum: -0.0003375583328306675
     maximum: 0.0002639315789565444
 - filters:
@@ -64577,7 +64577,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.6945875347573749e-06
+    value: 1.694587532483638e-06
     minimum: -0.0003375583328306675
     maximum: 0.0002639315789565444
 - filters:
@@ -64814,7 +64814,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 7.932004596682419e-07
+    value: 7.932004570534447e-07
     minimum: -0.0002512612845748663
     maximum: 0.0002462286502122879
 - filters:
@@ -64893,7 +64893,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.1187244535904032e-06
+    value: 1.1187244444954564e-06
     minimum: -0.0002512612845748663
     maximum: 0.0002462286502122879
 - filters:
@@ -64972,7 +64972,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.5667713967104654e-06
+    value: 1.5667713853417814e-06
     minimum: -0.0002512612845748663
     maximum: 0.0002462286502122879
 - filters:
@@ -65130,7 +65130,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.596165098926579e-07
+    value: 6.596165053451844e-07
     minimum: -0.0004028880503028631
     maximum: 0.00038977107033133507
 - filters:
@@ -65209,7 +65209,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 9.833668843839407e-07
+    value: 9.833668821102038e-07
     minimum: -0.0004028880503028631
     maximum: 0.00038977107033133507
 - filters:
@@ -65288,7 +65288,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.5601622123995192e-06
+    value: 1.5601622010308353e-06
     minimum: -0.0004028880503028631
     maximum: 0.00038977107033133507
 - filters:
@@ -65446,7 +65446,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.982852756574175e-07
+    value: 5.982852753163571e-07
     minimum: -0.0003153383731842041
     maximum: 0.00027881370624527335
 - filters:
@@ -65525,7 +65525,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 8.809956619870719e-07
+    value: 8.809956608502034e-07
     minimum: -0.0003153383731842041
     maximum: 0.00027881370624527335
 - filters:
@@ -65604,7 +65604,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.39369091698427e-06
+    value: 1.393690905615586e-06
     minimum: -0.0003153383731842041
     maximum: 0.00027881370624527335
 - filters:
@@ -65762,7 +65762,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.7022132478046235e-09
+    value: 5.702213220271092e-09
     minimum: 1.2050495570292696e-06
     maximum: 7.4864065027213655e-06
 - filters:
@@ -65841,7 +65841,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 9.22376361067734e-09
+    value: 9.22376359291377e-09
     minimum: 1.2050495570292696e-06
     maximum: 7.4864065027213655e-06
 - filters:
@@ -66078,7 +66078,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.711863833742111e-10
+    value: 1.7118638331869996e-10
     minimum: 2.8428224219112508e-09
     maximum: 3.3886911410263565e-07
 - filters:
@@ -66157,7 +66157,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.656660497146746e-10
+    value: 2.656660486044516e-10
     minimum: 2.8428224219112508e-09
     maximum: 3.3886911410263565e-07
 - filters:
@@ -66236,7 +66236,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.5692074984726735e-10
+    value: 4.5692074707170974e-10
     minimum: 2.8428224219112508e-09
     maximum: 3.3886911410263565e-07
 - filters:
@@ -66394,7 +66394,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 8.672020580802189e-11
+    value: 8.672020539168825e-11
     minimum: 8.952130148287551e-10
     maximum: 1.7826349107963324e-07
 - filters:
@@ -66473,7 +66473,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.2260521445317534e-10
+    value: 1.226052136205081e-10
     minimum: 8.952130148287551e-10
     maximum: 1.7826349107963324e-07
 - filters:
@@ -66552,7 +66552,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.7983392414100424e-10
+    value: 1.7983392136544666e-10
     minimum: 8.952130148287551e-10
     maximum: 1.7826349107963324e-07
 - filters:
@@ -66710,7 +66710,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 7.34721040812625e-11
+    value: 7.347210377595117e-11
     minimum: -2.480868843690587e-10
     maximum: 1.573905592522351e-07
 - filters:
@@ -66789,7 +66789,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.0203527731067475e-10
+    value: 1.02035277033119e-10
     minimum: -2.480868843690587e-10
     maximum: 1.573905592522351e-07
 - filters:
@@ -66868,7 +66868,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.426494332379403e-10
+    value: 1.426494318501615e-10
     minimum: -2.480868843690587e-10
     maximum: 1.573905592522351e-07
 - filters:
@@ -67014,7 +67014,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.753725029374209e-07
+    value: 1.7537250279531236e-07
     minimum: -9.390823834110051e-05
     maximum: 0.00011357886251062155
 - filters:
@@ -67087,7 +67087,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.392934496242561e-07
+    value: 2.392934479189536e-07
     minimum: -9.390823834110051e-05
     maximum: 0.00011357886251062155
 - filters:
@@ -67160,7 +67160,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.136950098792115e-07
+    value: 3.136950070370405e-07
     minimum: -9.390823834110051e-05
     maximum: 0.00011357886251062155
 - filters:
@@ -67306,7 +67306,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 8.722922682835589e-09
+    value: 8.72292267573016e-09
     minimum: -5.9587182477116585e-06
     maximum: 8.640767191536725e-06
 - filters:
@@ -67598,7 +67598,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.6856757890936233e-09
+    value: 2.6856757726623223e-09
     minimum: -0.00022642238764092326
     maximum: 0.00019101215002592653
 - filters:
@@ -68194,7 +68194,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.2429644278030315e-09
+    value: 4.24296441181582e-09
     minimum: 1.1303054634481668e-06
     maximum: 3.5957882573711686e-06
 - filters:
@@ -68273,7 +68273,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.6234986356429324e-09
+    value: 5.6234986089975804e-09
     minimum: 1.1303054634481668e-06
     maximum: 3.5957882573711686e-06
 - filters:
@@ -68510,7 +68510,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 2.8069197438526325e-05
+    value: 2.8069197303921107e-05
     minimum: -8.7586395238759e-06
     maximum: 0.008704963140189648
 - filters:
@@ -68905,7 +68905,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.8443794659979193e-05
+    value: 5.844379411428238e-05
     minimum: 5.3445813819053e-07
     maximum: 0.01983063854277134
 - filters:
@@ -68984,7 +68984,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00010288593985023917
+    value: 0.00010288593766745188
     minimum: 5.3445813819053e-07
     maximum: 0.01983063854277134
 - filters:
@@ -69142,7 +69142,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.544544907344972e-05
+    value: 3.5445444489596426e-05
     minimum: 1.5601854101987556e-06
     maximum: 0.028322894126176834
 - filters:
@@ -69300,7 +69300,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 9.524336928734556e-05
+    value: 9.524336201138794e-05
     minimum: 1.5601854101987556e-06
     maximum: 0.028322894126176834
 - filters:
@@ -69458,7 +69458,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.37503468501567844
+    value: 0.37503468155860903
     minimum: 0.06010013073682785
     maximum: 154.0015869140625
 - filters:
@@ -69537,7 +69537,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.5026406753063203
+    value: 0.5026406407356263
     minimum: 0.06010013073682785
     maximum: 154.0015869140625
 - filters:
@@ -69616,7 +69616,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.6459839910268788
+    value: 0.6459839344024658
     minimum: 0.06010013073682785
     maximum: 154.0015869140625
 - filters:
@@ -69774,7 +69774,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.5869631180763246
+    value: 0.5869631152153016
     minimum: -4.560258865356445
     maximum: 130.1488494873047
 - filters:
@@ -69932,7 +69932,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.59630881547928
+    value: 1.596308791637422
     minimum: -4.560258865356445
     maximum: 130.1488494873047
 - filters:
@@ -70090,7 +70090,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.2797560361921788
+    value: 0.2797560345828534
     minimum: -6.312224388122559
     maximum: 152.63963317871094
 - filters:
@@ -70248,7 +70248,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.9135231286287318
+    value: 0.9135231107473383
     minimum: -6.312224388122559
     maximum: 152.63963317871094
 - filters:
@@ -70406,7 +70406,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.18771801362931734
+    value: 0.1877180126458407
     minimum: -4.612490653991699
     maximum: 152.8626708984375
 - filters:
@@ -70485,7 +70485,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.3391748842597008
+    value: 0.33917488366365434
     minimum: -4.612490653991699
     maximum: 152.8626708984375
 - filters:
@@ -70564,7 +70564,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.5838975876569752
+    value: 0.5838975816965106
     minimum: -4.612490653991699
     maximum: 152.8626708984375
 - filters:
@@ -70801,7 +70801,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09475598618388177
+    value: 0.09475598588585855
     minimum: 181.73553466796875
     maximum: 243.88168334960938
 - filters:
@@ -70880,7 +70880,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1227807324379683
+    value: 0.12278073169291023
     minimum: 181.73553466796875
     maximum: 243.88168334960938
 - filters:
@@ -71038,7 +71038,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.04963373346999288
+    value: 0.04963373344764114
     minimum: 220.14657592773438
     maximum: 280.68060302734375
 - filters:
@@ -71196,7 +71196,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09484439305961137
+    value: 0.0948443923145533
     minimum: 220.14657592773438
     maximum: 280.68060302734375
 - filters:
@@ -71354,7 +71354,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0680971767306328
+    value: 0.06809717649221422
     minimum: 221.42686462402344
     maximum: 313.968994140625
 - filters:
@@ -71433,7 +71433,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09789133206009866
+    value: 0.09789133176207544
     minimum: 221.42686462402344
     maximum: 313.968994140625
 - filters:
@@ -71670,7 +71670,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.030914505545049917
+    value: 0.030914505343884242
     minimum: 221.49005126953125
     maximum: 324.62738037109375
 - filters:
@@ -71749,7 +71749,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.06587623327970507
+    value: 0.06587623268365864
     minimum: 221.49005126953125
     maximum: 324.62738037109375
 - filters:
@@ -71828,7 +71828,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.11384747885167604
+    value: 0.11384747810661797
     minimum: 221.49005126953125
     maximum: 324.62738037109375
 - filters:
@@ -71986,7 +71986,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1610506599545479
+    value: 0.1610506598353386
     minimum: -53.65269470214844
     maximum: 67.14286804199219
 - filters:
@@ -72302,7 +72302,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.13668303008377553
+    value: 0.13668302999436857
     minimum: -43.14056396484375
     maximum: 74.21199035644531
 - filters:
@@ -72618,7 +72618,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.04313986733183265
+    value: 0.04313986732438207
     minimum: -58.62342834472656
     maximum: 48.361572265625
 - filters:
@@ -72697,7 +72697,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.08583431042730813
+    value: 0.08583430938422687
     minimum: -58.62342834472656
     maximum: 48.361572265625
 - filters:
@@ -72776,7 +72776,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1497971110045911
+    value: 0.14979710951447495
     minimum: -58.62342834472656
     maximum: 48.361572265625
 - filters:
@@ -72934,7 +72934,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.026986951496452097
+    value: 0.02698695142939687
     minimum: -35.41596984863281
     maximum: 29.945587158203125
 - filters:
@@ -73013,7 +73013,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.04929294295609004
+    value: 0.04929294161498555
     minimum: -35.41596984863281
     maximum: 29.945587158203125
 - filters:
@@ -73092,7 +73092,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09418480023741731
+    value: 0.09418479874730118
     minimum: -35.41596984863281
     maximum: 29.945587158203125
 - filters:
@@ -73250,7 +73250,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.16403988821804524
+    value: 0.1640398878902197
     minimum: -52.75018310546875
     maximum: 61.43550109863281
 - filters:
@@ -73329,7 +73329,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.21868398442864423
+    value: 0.21868398353457458
     minimum: -52.75018310546875
     maximum: 61.43550109863281
 - filters:
@@ -73566,7 +73566,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.13222485414147378
+    value: 0.13222485396265984
     minimum: -60.978607177734375
     maximum: 61.38824462890625
 - filters:
@@ -73645,7 +73645,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.1826242743432522
+    value: 0.18262427404522896
     minimum: -60.978607177734375
     maximum: 61.38824462890625
 - filters:
@@ -73724,7 +73724,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.2455111280083658
+    value: 0.24551112502813355
     minimum: -60.978607177734375
     maximum: 61.38824462890625
 - filters:
@@ -73882,7 +73882,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.043850369811058054
+    value: 0.04385036963224412
     minimum: -47.37992858886719
     maximum: 53.86457824707031
 - filters:
@@ -73961,7 +73961,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.08448712490499023
+    value: 0.08448712415993218
     minimum: -47.37992858886719
     maximum: 53.86457824707031
 - filters:
@@ -74040,7 +74040,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.14851674288511293
+    value: 0.14851673990488068
     minimum: -47.37992858886719
     maximum: 53.86457824707031
 - filters:
@@ -74198,7 +74198,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.027191942328587175
+    value: 0.027191942317411306
     minimum: -28.859634399414062
     maximum: 30.700836181640625
 - filters:
@@ -74277,7 +74277,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.04939864423125983
+    value: 0.04939864415675402
     minimum: -28.859634399414062
     maximum: 30.700836181640625
 - filters:
@@ -74356,7 +74356,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.09361429475247865
+    value: 0.09361429400742058
     minimum: -28.859634399414062
     maximum: 30.700836181640625
 - filters:
@@ -74514,7 +74514,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.426177114349234e-07
+    value: 6.426177040452789e-07
     minimum: -0.000246760668233037
     maximum: 0.00021212900173850358
 - filters:
@@ -74593,7 +74593,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 9.080920102633173e-07
+    value: 9.080920091264488e-07
     minimum: -0.000246760668233037
     maximum: 0.00021212900173850358
 - filters:
@@ -74830,7 +74830,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.358188977746977e-06
+    value: 1.3581889754732402e-06
     minimum: -0.0005207066424190998
     maximum: 0.0007340977899730206
 - filters:
@@ -74909,7 +74909,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.887610344510904e-06
+    value: 1.8876103399634306e-06
     minimum: -0.0005207066424190998
     maximum: 0.0007340977899730206
 - filters:
@@ -75146,7 +75146,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 7.414489340362708e-07
+    value: 7.414489328994023e-07
     minimum: -0.000704967649653554
     maximum: 0.0009666227269917727
 - filters:
@@ -75225,7 +75225,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.094426894496792e-06
+    value: 1.094426887675582e-06
     minimum: -0.000704967649653554
     maximum: 0.0009666227269917727
 - filters:
@@ -75304,7 +75304,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.9310984839648897e-06
+    value: 1.9310984612275218e-06
     minimum: -0.000704967649653554
     maximum: 0.0009666227269917727
 - filters:
@@ -75462,7 +75462,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.472505184798139e-07
+    value: 5.472505155239562e-07
     minimum: -0.0005199585575610399
     maximum: 0.000651282025501132
 - filters:
@@ -75541,7 +75541,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 8.223719845545932e-07
+    value: 8.223719788702513e-07
     minimum: -0.0005199585575610399
     maximum: 0.000651282025501132
 - filters:
@@ -75620,7 +75620,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 1.2301209096676765e-06
+    value: 1.2301208982989926e-06
     minimum: -0.0005199585575610399
     maximum: 0.000651282025501132
 - filters:
@@ -75778,7 +75778,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0009249308180296798
+    value: 0.0009249308108119298
     minimum: -0.4397156238555908
     maximum: 0.30507558584213257
 - filters:
@@ -75857,7 +75857,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0012696950684767218
+    value: 0.0012696950661484152
     minimum: -0.4397156238555908
     maximum: 0.30507558584213257
 - filters:
@@ -76094,7 +76094,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.00663870280282572
+    value: 0.0066387027963064615
     minimum: -9.138772010803223
     maximum: 4.803811073303223
 - filters:
@@ -76173,7 +76173,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.009751083496958019
+    value: 0.009751083459705117
     minimum: -9.138772010803223
     maximum: 4.803811073303223
 - filters:
@@ -76410,7 +76410,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0020905087881255896
+    value: 0.002090508786728606
     minimum: -5.320089340209961
     maximum: 5.411738395690918
 - filters:
@@ -76568,7 +76568,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.0055013787467032725
+    value: 0.0055013786535710145
     minimum: -5.320089340209961
     maximum: 5.411738395690918
 - filters:
@@ -76884,7 +76884,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 0.003176005079876633
+    value: 0.0031760050565935683
     minimum: -2.513835906982422
     maximum: 4.392399311065674
 - filters:
@@ -77042,7 +77042,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.891890904903412
+    value: 5.891890878677368
     minimum: 179695.3125
     maximum: 207254.25
 - filters:
@@ -77358,7 +77358,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.6124545979499825
+    value: 4.612454583644868
     minimum: 44407.64453125
     maximum: 58633.3359375
 - filters:
@@ -77437,7 +77437,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 6.289411349296571
+    value: 6.289411339759827
     minimum: 44407.64453125
     maximum: 58633.3359375
 - filters:
@@ -77674,7 +77674,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 4.239990214824677
+    value: 4.239990213871002
     minimum: 7351.9140625
     maximum: 17362.1328125
 - filters:
@@ -77753,7 +77753,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.791729254722596
+    value: 5.791729245185852
     minimum: 7351.9140625
     maximum: 17362.1328125
 - filters:
@@ -77832,7 +77832,7 @@ recommendations:
       value: quadratic
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 7.568848586082462
+    value: 7.568848538398745
     minimum: 7351.9140625
     maximum: 17362.1328125
 - filters:
@@ -77990,7 +77990,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 3.875863235473633
+    value: 3.875863231658936
     minimum: -5302.5625
     maximum: 4675.3310546875
 - filters:
@@ -78069,7 +78069,7 @@ recommendations:
       value: pick
   requirements:
   - kind: max-pointwise-quadratic-error-bound
-    value: 5.292742533683778
+    value: 5.292742524147034
     minimum: -5302.5625
     maximum: 4675.3310546875
 - filters:
