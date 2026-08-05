@@ -3228,9 +3228,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 0.00390625
@@ -3245,9 +3242,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 0.000244140625
@@ -3262,9 +3256,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 0.000244140625
@@ -3279,9 +3270,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.52587890625e-05
@@ -3296,9 +3284,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.52587890625e-05
@@ -3315,9 +3300,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.52587890625e-05
@@ -3334,9 +3316,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.52587890625e-05
@@ -3351,9 +3330,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.52587890625e-05
@@ -3370,9 +3346,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.52587890625e-05
@@ -3389,9 +3362,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.52587890625e-05
@@ -3408,9 +3378,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.52587890625e-05
@@ -3427,9 +3394,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.52587890625e-05
@@ -3446,9 +3410,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.52587890625e-05
@@ -3465,9 +3426,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.52587890625e-05
@@ -3484,9 +3442,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.52587890625e-05
@@ -3503,9 +3458,6 @@ recommendations:
     filters:
     - kind: level-kind
       value: pressure
-    - kind: level-value
-      minimum: 50
-      maximum: 50
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.52587890625e-05
