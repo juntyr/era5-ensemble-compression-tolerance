@@ -18,6 +18,7 @@ async-lru==2.0.4
     # via jupyterlab
 attrs==24.3.0
     # via
+    #   eccodes
     #   ecmwf-datastores-client
     #   jsonschema
     #   referencing
@@ -38,6 +39,7 @@ certifi==2024.12.14
 cffi==1.17.1
     # via
     #   argon2-cffi-bindings
+    #   eccodes
     #   pyzmq
 cftime==1.6.4.post1
     # via netcdf4
@@ -56,6 +58,8 @@ comm==0.2.2
     # via
     #   ipykernel
     #   ipywidgets
+compression-safeguards==1.0.0rc1
+    # via -r requirements.in
 contourpy==1.3.1
     # via matplotlib
 cycler==0.12.1
@@ -68,12 +72,16 @@ decorator==5.1.1
     # via ipython
 defusedxml==0.7.1
     # via nbconvert
+eccodes==2.39.2
+    # via -r requirements.in
 ecmwf-datastores-client==0.5.1
     # via cdsapi
 executing==2.1.0
     # via stack-data
 fastjsonschema==2.21.1
     # via nbformat
+findlibs==0.1.3
+    # via eccodes
 fonttools==4.55.3
     # via matplotlib
 fqdn==1.5.1
@@ -194,40 +202,47 @@ numcodecs==0.13.1
     # via
     #   numcodecs-combinators
     #   numcodecs-observers
+    #   numcodecs-shuffle
     #   numcodecs-wasm
 numcodecs-combinators==0.2.15
-    # via numcodecs-observers
+    # via
+    #   -r requirements.in
+    #   numcodecs-observers
 numcodecs-observers==0.1.3
     # via numcodecs-wasm
+numcodecs-shuffle==0.1.0
+    # via -r requirements.in
 numcodecs-wasm==0.2.4
     # via
     #   -r requirements.in
-    #   numcodecs-wasm-bit-round
-    #   numcodecs-wasm-lc
     #   numcodecs-wasm-zstd
-numcodecs-wasm-bit-round==0.4.0
-    # via -r requirements.in
-numcodecs-wasm-lc==0.1.0
-    # via -r requirements.in
 numcodecs-wasm-zstd==0.4.0
     # via -r requirements.in
 numpy==2.4.6
     # via
     #   -r requirements.in
     #   cftime
+    #   compression-safeguards
     #   contourpy
+    #   eccodes
     #   matplotlib
     #   netcdf4
     #   numcodecs
     #   numcodecs-combinators
     #   numcodecs-observers
+    #   numcodecs-shuffle
     #   numcodecs-wasm
+    #   numpy-quaddtype
     #   pandas
+    #   scipy
     #   xarray
+numpy-quaddtype==1.0.0
+    # via compression-safeguards
 overrides==7.7.0
     # via jupyter-server
-packaging==24.2
+packaging==26.3
     # via
+    #   compression-safeguards
     #   dask
     #   ipykernel
     #   jupyter-server
@@ -279,7 +294,6 @@ python-dateutil==2.9.0.post0
     #   matplotlib
     #   multiurl
     #   pandas
-    #   strictyaml
 python-json-logger==3.2.1
     # via jupyter-events
 pytz==2024.2
@@ -325,6 +339,12 @@ rpds-py==0.22.3
     # via
     #   jsonschema
     #   referencing
+scipy==1.15.3
+    # via -r requirements.in
+semver==3.0.4
+    # via
+    #   -r requirements.in
+    #   compression-safeguards
 send2trash==1.8.3
     # via jupyter-server
 setuptools==75.6.0
@@ -333,14 +353,14 @@ six==1.17.0
     # via
     #   python-dateutil
     #   rfc3339-validator
+sly==0.5
+    # via compression-safeguards
 sniffio==1.3.1
     # via anyio
 soupsieve==2.6
     # via beautifulsoup4
 stack-data==0.6.3
     # via ipython
-strictyaml==1.7.3
-    # via -r requirements.in
 terminado==0.18.1
     # via
     #   jupyter-server
@@ -360,6 +380,7 @@ tornado==6.4.2
     #   terminado
 tqdm==4.67.1
     # via
+    #   -r requirements.in
     #   cdsapi
     #   multiurl
 traitlets==5.14.3
@@ -382,6 +403,7 @@ types-python-dateutil==2.9.0.20241206
 typing-extensions==4.12.2
     # via
     #   anyio
+    #   compression-safeguards
     #   ecmwf-datastores-client
     #   numcodecs-combinators
     #   numcodecs-observers
