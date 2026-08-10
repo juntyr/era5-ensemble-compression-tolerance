@@ -1,8 +1,19 @@
-dask ~= 2024.11
-field-compression-benchmark == 0.0.15
-jupyterlab ~= 4.3
-matplotlib ~= 3.9
-netCDF4 ~= 1.7
-numpy ~= 1.26
-pandas ~= 2.2
-xarray ~= 2024.11
+cdsapi ~= 0.7.0
+# compression-recommendations @ 7ae2504f0b6e332e4e9ee3cae2eaead923c79b65
+compression-safeguards == 1.0.0rc1
+dask ~= 2024.12.0
+eccodes ~= 2.39.0
+ipywidgets ~= 8.1.0
+jupyterlab ~= 4.3.0
+matplotlib ~= 3.10.0
+netCDF4 ~= 1.7.0
+numcodecs-combinators ~= 0.2.15
+numcodecs-shuffle ~= 0.1.0
+numcodecs-wasm ~= 0.2.4
+numcodecs-wasm-zstd ~= 0.4.0
+numpy ~= 2.4.0
+pandas ~= 2.2.0
+scipy ~= 1.15.0
+semver ~= 3.0.0
+tqdm ~= 4.0
+xarray ~= 2024.11.0
