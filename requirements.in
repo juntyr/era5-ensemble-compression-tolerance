@@ -1,5 +1,5 @@
 cdsapi ~= 0.7.0
-# compression-recommendations @ 7ae2504f0b6e332e4e9ee3cae2eaead923c79b65
+# compression-recommendations @ 891630b107c676118303a8ef7069ada1804b6d79
 compression-safeguards == 1.0.0rc1
 dask ~= 2024.12.0
 eccodes ~= 2.39.0
