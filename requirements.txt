@@ -339,7 +339,7 @@ rpds-py==0.22.3
     # via
     #   jsonschema
     #   referencing
-scipy==1.15.3
+scipy==1.16.3
     # via -r requirements.in
 semver==3.0.4
     # via
