@@ -398,7 +398,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.52587890625e-05
 - filters:
   - kind: any
     filters:
@@ -526,7 +526,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.00390625
 - filters:
   - kind: any
     filters:
@@ -846,7 +846,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 3.0517578125e-05
+    value: 0.0625
 - filters:
   - kind: any
     filters:
@@ -862,7 +862,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 3.0517578125e-05
+    value: 0.0625
 - filters:
   - kind: any
     filters:
@@ -878,7 +878,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 3.0517578125e-05
+    value: 0.0625
 - filters:
   - kind: any
     filters:
@@ -894,7 +894,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 3.0517578125e-05
+    value: 0.0625
 - filters:
   - kind: any
     filters:
@@ -910,7 +910,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.001953125
 - filters:
   - kind: any
     filters:
@@ -974,7 +974,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -990,7 +990,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.001953125
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -1006,7 +1006,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.001953125
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -1022,7 +1022,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.0078125
+    value: 0.00390625
 - filters:
   - kind: any
     filters:
@@ -1038,7 +1038,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0078125
 - filters:
   - kind: any
     filters:
@@ -1102,7 +1102,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.00390625
 - filters:
   - kind: any
     filters:
@@ -1550,7 +1550,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 3.0517578125e-05
 - filters:
   - kind: any
     filters:
@@ -1614,7 +1614,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 3.0517578125e-05
 - filters:
   - kind: any
     filters:
@@ -1742,7 +1742,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.00048828125
 - filters:
   - kind: any
     filters:
@@ -1870,7 +1870,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.015625
 - filters:
   - kind: any
     filters:
@@ -2062,7 +2062,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0001220703125
 - filters:
   - kind: any
     filters:
@@ -2126,7 +2126,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -2318,7 +2318,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.52587890625e-05
 - filters:
   - kind: any
     filters:
@@ -2446,7 +2446,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 3.0517578125e-05
 - filters:
   - kind: any
     filters:
@@ -2574,7 +2574,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.00048828125
 - filters:
   - kind: any
     filters:
@@ -2638,7 +2638,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.00048828125
 - filters:
   - kind: any
     filters:
@@ -2702,7 +2702,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0625
 - filters:
   - kind: any
     filters:
@@ -3030,7 +3030,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -3414,7 +3414,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0625
 - filters:
   - kind: any
     filters:
@@ -3478,7 +3478,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.1920928955078125e-07
 - filters:
   - kind: any
     filters:
@@ -3870,7 +3870,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.52587890625e-05
 - filters:
   - kind: any
     filters:
@@ -4254,7 +4254,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.03125
 - filters:
   - kind: any
     filters:
@@ -4318,7 +4318,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 5.960464477539063e-08
 - filters:
   - kind: any
     filters:
@@ -4582,7 +4582,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -4782,7 +4782,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.00390625
 - filters:
   - kind: any
     filters:
@@ -4846,7 +4846,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0001220703125
 - filters:
   - kind: any
     filters:
@@ -5230,7 +5230,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0001220703125
 - filters:
   - kind: any
     filters:
@@ -5422,7 +5422,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.001953125
+    value: 0.00048828125
 - filters:
   - kind: any
     filters:
@@ -5438,7 +5438,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.001953125
+    value: 0.00048828125
 - filters:
   - kind: any
     filters:
@@ -5454,7 +5454,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.001953125
+    value: 0.00048828125
 - filters:
   - kind: any
     filters:
@@ -5470,7 +5470,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.00390625
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -5486,7 +5486,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0078125
 - filters:
   - kind: any
     filters:
@@ -5550,7 +5550,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.00390625
 - filters:
   - kind: any
     filters:
@@ -5934,7 +5934,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.000244140625
 - filters:
   - kind: any
     filters:
@@ -5998,7 +5998,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.52587890625e-05
 - filters:
   - kind: any
     filters:
@@ -6126,7 +6126,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.9073486328125e-06
 - filters:
   - kind: any
     filters:
@@ -6254,7 +6254,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0625
 - filters:
   - kind: any
     filters:
@@ -6318,7 +6318,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.125
 - filters:
   - kind: any
     filters:
@@ -6334,7 +6334,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.00390625
+    value: 0.125
 - filters:
   - kind: any
     filters:
@@ -6350,7 +6350,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.00390625
+    value: 0.125
 - filters:
   - kind: any
     filters:
@@ -6366,7 +6366,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.00390625
+    value: 0.125
 - filters:
   - kind: any
     filters:
@@ -6704,7 +6704,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.1920928955078125e-07
 - filters:
   - kind: any
     filters:
@@ -6910,7 +6910,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.52587890625e-05
 - filters:
   - kind: any
     filters:
@@ -7038,7 +7038,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.000244140625
 - filters:
   - kind: any
     filters:
@@ -7550,7 +7550,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 5.960464477539063e-08
 - filters:
   - kind: any
     filters:
@@ -7878,7 +7878,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 5.960464477539063e-08
 - filters:
   - kind: any
     filters:
@@ -8006,7 +8006,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 5.960464477539063e-08
 - filters:
   - kind: any
     filters:
@@ -8520,7 +8520,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0078125
 - filters:
   - kind: any
     filters:
@@ -8782,7 +8782,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.52587890625e-05
 - filters:
   - kind: any
     filters:
@@ -8846,7 +8846,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.001953125
 - filters:
   - kind: any
     filters:
@@ -8974,7 +8974,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 9.5367431640625e-07
 - filters:
   - kind: any
     filters:
@@ -9102,7 +9102,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0625
 - filters:
   - kind: any
     filters:
@@ -9230,7 +9230,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.52587890625e-05
 - filters:
   - kind: any
     filters:
@@ -9278,7 +9278,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.0078125
+    value: 0.00390625
 - filters:
   - kind: any
     filters:
@@ -9294,7 +9294,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.125
 - filters:
   - kind: any
     filters:
@@ -9360,7 +9360,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 5.960464477539063e-08
 - filters:
   - kind: any
     filters:
@@ -9760,7 +9760,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 3.0517578125e-05
 - filters:
   - kind: any
     filters:
@@ -10030,7 +10030,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.125
 - filters:
   - kind: any
     filters:
@@ -10432,7 +10432,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0078125
 - filters:
   - kind: any
     filters:
@@ -10504,7 +10504,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.00048828125
 - filters:
   - kind: any
     filters:
@@ -11176,7 +11176,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 6.103515625e-05
 - filters:
   - kind: any
     filters:
@@ -11566,7 +11566,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.52587890625e-05
 - filters:
   - kind: any
     filters:
@@ -11758,7 +11758,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -11774,7 +11774,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.001953125
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -11790,7 +11790,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.001953125
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -11806,7 +11806,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.00390625
+    value: 0.001953125
 - filters:
   - kind: any
     filters:
@@ -11822,7 +11822,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.03125
 - filters:
   - kind: any
     filters:
@@ -12150,7 +12150,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.015625
 - filters:
   - kind: any
     filters:
@@ -12494,7 +12494,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 0.00390625
+    value: 0.0078125
 - filters:
   - kind: any
     filters:
@@ -13278,7 +13278,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 3.0517578125e-05
 - filters:
   - kind: any
     filters:
@@ -13342,7 +13342,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.125
 - filters:
   - kind: any
     filters:
@@ -13406,7 +13406,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.03125
 - filters:
   - kind: any
     filters:
@@ -13790,7 +13790,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.00048828125
 - filters:
   - kind: any
     filters:
@@ -14046,7 +14046,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.1920928955078125e-07
 - filters:
   - kind: any
     filters:
@@ -14302,7 +14302,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 5.960464477539063e-08
 - filters:
   - kind: any
     filters:
@@ -14430,7 +14430,7 @@ recommendations:
       value: single
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 5.960464477539063e-08
 - filters:
   - kind: any
     filters:
@@ -15913,7 +15913,7 @@ recommendations:
       maximum: 50.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.52587890625e-05
 - filters:
   - kind: any
     filters:
@@ -16065,7 +16065,7 @@ recommendations:
       maximum: 850.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.52587890625e-05
 - filters:
   - kind: any
     filters:
@@ -16303,7 +16303,7 @@ recommendations:
       maximum: 500.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.001953125
 - filters:
   - kind: any
     filters:
@@ -16889,7 +16889,7 @@ recommendations:
       maximum: 50.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.000244140625
 - filters:
   - kind: any
     filters:
@@ -17041,7 +17041,7 @@ recommendations:
       maximum: 850.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.015625
 - filters:
   - kind: any
     filters:
@@ -17195,7 +17195,7 @@ recommendations:
       maximum: 50.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.52587890625e-05
 - filters:
   - kind: any
     filters:
@@ -17279,7 +17279,7 @@ recommendations:
       maximum: 500.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -17363,7 +17363,7 @@ recommendations:
       maximum: 850.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -17531,7 +17531,7 @@ recommendations:
       maximum: 50.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.00390625
 - filters:
   - kind: any
     filters:
@@ -18035,7 +18035,7 @@ recommendations:
       maximum: 850.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 7.62939453125e-06
 - filters:
   - kind: any
     filters:
@@ -18371,7 +18371,7 @@ recommendations:
       maximum: 850.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -18623,7 +18623,7 @@ recommendations:
       maximum: 500.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -18875,7 +18875,7 @@ recommendations:
       maximum: 50.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -18959,7 +18959,7 @@ recommendations:
       maximum: 500.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.0009765625
 - filters:
   - kind: any
     filters:
@@ -19211,7 +19211,7 @@ recommendations:
       maximum: 50.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.001953125
 - filters:
   - kind: any
     filters:
@@ -19463,7 +19463,7 @@ recommendations:
       maximum: 1000.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.00390625
 - filters:
   - kind: any
     filters:
@@ -19547,7 +19547,7 @@ recommendations:
       maximum: 50.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 1.9073486328125e-06
 - filters:
   - kind: any
     filters:
@@ -19799,7 +19799,7 @@ recommendations:
       maximum: 1000.0
   requirements:
   - kind: max-pointwise-relative-error-bound
-    value: 2.9802322387695312e-08
+    value: 0.000244140625
 - filters:
   - kind: any
     filters:
