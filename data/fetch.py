@@ -410,6 +410,7 @@ for product_type, month, time in product(
             "28",
             "29",
             "30",
+            "31",
         ],
         "time": [time],
         "data_format": "netcdf",
