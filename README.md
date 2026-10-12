@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/github/actions/workflow/status/juntyr/era5-ensemble-compression-tolerance/ci.yml?branch=main)](https://github.com/juntyr/era5-ensemble-compression-tolerance/actions/workflows/ci.yml?query=branch%3Amain)
 <!--[![image](https://zenodo.org/badge/DOI/10.5281/zenodo.18355539.svg)](https://doi.org/10.5281/zenodo.18355539)-->
 
-This repository contains the analyses published in the "Towards recommendations for lossy compression error tolerances of weather and climate data" paper for deriving compression error tolerances from ERA5 ensemble data and comparing them with expert-provided tolerances.
+This repository contains analyses for deriving compression error tolerances from ERA5 ensemble data and comparing them with expert-provided tolerances, which are published in the paper "Towards recommendations for lossy compression error tolerances of weather and climate data".
 
 
 ## Overview
@@ -17,15 +17,15 @@ The repository is structured as follows (listed in order of execution since some
   - `data/fetch.py` downloads a subset of the ERA5 single-level and pressure-level datasets into the `data/` folder, please execute this script from inside the `data/` folder
 - error tolerances
   - `bit-information-recommendations.ipynb` computes pointwise relative error tolerances from ERA5 ensemble means using the bit information method[^bit-information] and writes them to `recommendations/bit-information.yaml`
-  - `data-limit-recommendations.ipynb` guesses data limits and writes them to `recommendations/data-limits.yaml`
-  - `ensemble-spread-recommendations.ipynb` computes pointwise absolute/relative/quadratic error tolerances from ERA5 ensemble means and spreads and writes them to `recommendations/ensemble-spread.yaml`
-  - `grib-linear-packing-recommendations.ipynb` computes range-relative error tolerances caused by linear packing in GRIB from a small sample of ERA5 reanalysis and ensemble means and spreads and writes them to `recommendations/grib-linear-packing.yaml`
+  - `data-limit-recommendations.ipynb` guesses data limits from ERA5 ensemble means and writes them to `recommendations/data-limits.yaml`
+  - `ensemble-spread-recommendations.ipynb` computes pointwise absolute/relative/quadratic error tolerances from ERA5 ensemble mean-spread pairs and writes them to `recommendations/ensemble-spread.yaml`
+  - `grib-linear-packing-recommendations.ipynb` computes pre-existing range-relative error tolerances caused by linear packing in GRIB from a small sample of ERA5 reanalysis and ensemble means and spreads and writes them to `recommendations/grib-linear-packing.yaml`
 - comparisons
-  - `range.ipynb` computes the data range from ERA5 ensemble means and writes it to `expert-quantile-(single|pressure).csv`
+  - `range.ipynb` computes the data ranges from ERA5 ensemble means and writes them to `expert-quantile-(single|pressure).csv`
   - `compression-ratio.ipynb` computes compression ratios for the ensemble-derived error tolerances and writes them to `compression-ratio-(single|pressure).csv`
   - `expert-quantile.ipynb` computes the quantiles of the expert tolerances amongst the ERA5 ensemble spreads and writes them to `expert-quantile-(single|pressure).csv`
 - plotting
-  - `compression-ratio-plots.ipynb` plots the compression ratios the ensemble-derived error tolerances and writes them to `plots/compression/*.pdf`
+  - `compression-ratio-plots.ipynb` plots the compression ratios for the ensemble-derived error tolerances and writes them to `plots/compression/*.pdf`
   - `mean-spread-plots.ipynb` plots the ERA5 ensemble mean-spread distributions and derived error tolerances and writes them to `plots/(single|pressure)/*.pdf` and `plots/legend.pdf`
   - `quantile-plots.ipynb` plots the expert quantiles and error tolerance comparisons and correlations and writes them to `plots/quantiles/*.pdf`
   - `plots.zip` contains all pre-computed plots
