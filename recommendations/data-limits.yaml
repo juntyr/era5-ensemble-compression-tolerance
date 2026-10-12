@@ -1551,6 +1551,6 @@ recommendations:
   requirements:
   - kind: data-limits
     minimum: 0.0
-version: 0.1.0
+version: 1.0.0-rc1
 metadata:
   commit: 0355869f304dafd4eefebfc112f1ee9669f974a8

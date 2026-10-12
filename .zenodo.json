@@ -37,13 +37,13 @@
   ],
   "related_identifiers": [
     {
-      "identifier": "https://github.com/juntyr/era5-ensemble-compression-tolerance/tree/1.0.0rc1",
+      "identifier": "https://github.com/juntyr/era5-ensemble-compression-tolerance/tree/1.0.0-rc1",
       "relation": "isSupplementTo",
       "resource_type": "software",
       "scheme": "url"
     }
   ],
-  "version": "1.0.0rc1",
+  "version": "1.0.0-rc1",
   "upload_type": "software",
   "license": "mpl-2.0",
   "grants": [

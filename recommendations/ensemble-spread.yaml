@@ -78151,6 +78151,6 @@ recommendations:
     value: 6.956327438354492
     minimum: -5302.5625
     maximum: 4675.3310546875
-version: 0.1.0
+version: 1.0.0-rc1
 metadata:
   commit: 0355869f304dafd4eefebfc112f1ee9669f974a8
