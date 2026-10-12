@@ -31,6 +31,10 @@ authors:
     orcid: 'https://orcid.org/0000-0003-1879-6804'
 repository-code: >-
   https://github.com/juntyr/era5-ensemble-compression-tolerance
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23308181
+    description: Zenodo
 abstract: >-
   Analyses for deriving compression error tolerances from
   ERA5 ensemble data and comparing them with expert-provided

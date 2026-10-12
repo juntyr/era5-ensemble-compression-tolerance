@@ -1,7 +1,7 @@
 # Lossy compression error tolerances from ERA5 ensemble data
 
 [![image](https://img.shields.io/github/actions/workflow/status/juntyr/era5-ensemble-compression-tolerance/ci.yml?branch=main)](https://github.com/juntyr/era5-ensemble-compression-tolerance/actions/workflows/ci.yml?query=branch%3Amain)
-<!--[![image](https://zenodo.org/badge/DOI/10.5281/zenodo.18355539.svg)](https://doi.org/10.5281/zenodo.18355539)-->
+[![image](https://zenodo.org/badge/DOI/10.5281/zenodo.23308181.svg)](https://doi.org/10.5281/zenodo.23308181)
 
 This repository contains analyses for deriving compression error tolerances from ERA5 ensemble data and comparing them with expert-provided tolerances, which are published in the paper "Towards recommendations for lossy compression error tolerances of weather and climate data".
 
@@ -35,7 +35,11 @@ The repository is structured as follows (listed in order of execution since some
 
 ## Citation
 
-Please refer to the [CITATION.cff](CITATION.cff) file and refer to <https://citation-file-format.github.io> to extract the citation in a format of your choice.
+Please cite this work as follows:
+
+> Tyree, J., Faghih-Naini, S., Klöwer, M., Dueben, P., and Järvinen, H. (2026). era5-ensemble-compression-tolerance. *Zenodo*. Available from: [doi:10.5281/zenodo.23308181](https://doi.org/10.5281/zenodo.23308181).
+
+Please also refer to the [CITATION.cff](CITATION.cff) file and refer to <https://citation-file-format.github.io> to extract the citation in a format of your choice.
 
 
 ## License
