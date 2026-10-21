@@ -50,7 +50,7 @@ blh,single,10.0,0.13557774239488568,max,nan,nan,max
 cape,single,nan,nan,max,0.01,0.0,mean
 cbh,single,1.0,0.03783942774252922,mean,nan,nan,max
 cdir,single,3600.0,0.299318541042131,mean,nan,nan,max
-cdww,single,0.0,0.0,mean,0.01,0.07636327314622374,mean
+cdww,single,1e-05,0.06105703255342531,mean,0.01,0.07636327314622374,mean
 chnk,single,nan,nan,max,0.01,0.4525780236920313,mean
 cin,single,1.0,0.010633188958632007,mean,nan,nan,max
 cl,single,1e-05,nan,mean,0.01,nan,mean
@@ -71,13 +71,13 @@ dwps,single,0.01,0.5577328654660773,mean,nan,nan,max
 dwww,single,0.01,0.059176254008200875,mean,nan,nan,max
 e,single,nan,nan,max,0.01,0.00015407612637843753,mean
 es,single,1e-05,0.9978294708586248,mean,0.01,6.549811927794142e-06,mean
-ewss,single,100.0,0.6180433039926535,mean,nan,nan,max
+ewss,single,10.0,0.01488320492055563,mean,0.01,1.3473651891355409e-05,max
 fal,single,0.01,0.7465558560877432,mean,nan,nan,max
 fdir,single,3600.0,0.0875453639947307,mean,nan,nan,max
 fg10,single,0.001,0.0,max,nan,nan,max
 flsr,single,nan,nan,max,0.01,0.8311147242447879,mean
 fsr,single,nan,nan,max,0.01,0.34919515746333046,mean
-gwd,single,1000.0,0.9417680635707394,mean,nan,nan,max
+gwd,single,10.0,0.8080063630426659,mean,0.01,3.5685822494988406e-05,max
 hcc,single,nan,nan,max,0.01,0.057720108553330735,mean
 hmax,single,0.01,0.019983931774684695,mean,nan,nan,max
 i10fg,single,0.001,0.0,mean,nan,nan,max
@@ -96,7 +96,7 @@ lai_hv,single,0.0001,nan,mean,0.01,nan,mean
 lai_lv,single,0.0001,nan,mean,0.01,nan,mean
 lblt,single,0.01,0.08970215596167984,max,nan,nan,max
 lcc,single,nan,nan,max,0.01,0.05197110469243943,mean
-lgws,single,100.0,0.9282322760723349,mean,nan,nan,max
+lgws,single,1.0,0.7586908597979706,mean,0.01,1.3606822623545132e-05,max
 licd,single,0.001,0.4469417725002923,mean,0.01,0.7919678602658698,mean
 lict,single,0.01,0.7199489581283522,max,nan,nan,max
 lmld,single,0.1,0.11339268355511702,mean,0.01,0.13237647539657996,mean
@@ -112,7 +112,7 @@ ltlt,single,0.01,0.0650263322605689,max,nan,nan,max
 mcc,single,nan,nan,max,0.01,0.03839672603491739,mean
 mdts,single,0.1,0.001468333602393153,mean,nan,nan,max
 mdww,single,0.1,0.032057085423050524,mean,nan,nan,max
-mgws,single,100.0,0.9301807554909708,mean,nan,nan,max
+mgws,single,1.0,0.7604442129734749,mean,0.01,1.3061924856262559e-05,max
 mn2t,single,0.01,7.88388861137601e-09,max,nan,nan,max
 mntpr,single,nan,nan,max,0.01,2.258974609633657e-08,mean
 mp1,single,0.01,0.0010444371170188016,mean,nan,nan,max
@@ -120,7 +120,7 @@ mp2,single,0.01,0.0011521343083168434,mean,nan,nan,max
 mpts,single,0.01,0.0012666473277758456,mean,nan,nan,max
 mpww,single,0.01,0.01175733800176513,mean,nan,nan,max
 msl,single,1.0,0.0,max,nan,nan,max
-msqs,single,0.0,0.0,mean,0.01,0.002347782970383524,mean
+msqs,single,0.0001,0.06361534913762927,mean,0.01,0.002347782970383524,mean
 mwd,single,0.1,0.0012418000016277196,mean,nan,nan,max
 mwd1,single,0.1,0.024395280706548502,mean,nan,nan,max
 mwd2,single,0.1,0.04316412747681692,mean,nan,nan,max
@@ -131,7 +131,7 @@ mwp2,single,0.01,0.0076266547666838025,mean,0.01,0.48975705081790316,mean
 mwp3,single,0.01,0.024784028167568962,mean,0.01,0.3581582829179732,mean
 mx2t,single,0.01,7.88388861137601e-09,max,nan,nan,max
 mxtpr,single,nan,nan,max,0.01,2.0355828016051792e-08,mean
-nsss,single,100.0,0.6505263520553612,mean,nan,nan,max
+nsss,single,10.0,0.014268923855511657,mean,0.01,2.116852597017838e-05,max
 p1ps,single,0.01,0.0010084201233375382,mean,nan,nan,max
 p1ww,single,0.01,0.012108122294096193,mean,nan,nan,max
 p2ps,single,0.01,0.0009131286850017704,mean,nan,nan,max
@@ -141,7 +141,7 @@ phiaw,single,0.01,0.020166762518102635,mean,0.01,0.10001212379174315,mean
 phioc,single,0.03,0.13855718914240486,mean,0.01,0.012233395399510683,mean
 pp1d,single,0.01,0.006546854378339275,mean,nan,nan,max
 ptype,single,0.0,0.0,max,nan,nan,max
-rhoao,single,0.0,0.0,mean,0.01,0.9997760303080343,mean
+rhoao,single,0.01,0.9985424887588094,mean,0.01,0.9997760303080343,mean
 ro,single,1e-05,0.6547445841011783,mean,0.01,2.268885883836875e-05,mean
 rsn,single,0.1,0.15135136936217594,mean,0.01,0.5949964024469419,mean
 sd,single,1e-05,0.011747330577452504,mean,0.01,0.07992641184992622,mean
@@ -183,7 +183,7 @@ swvl2,single,1e-05,0.6468353046208417,mean,0.01,0.014587141251532628,mean
 swvl3,single,1e-05,0.647160515026061,mean,0.01,0.0076098288754673565,mean
 swvl4,single,1e-05,0.0011549600121938178,mean,0.01,0.2890075373954629,mean
 t2m,single,0.01,1.576777722275202e-07,max,nan,nan,max
-tauoc,single,0.0,0.0,mean,0.01,0.6973634211939862,mean
+tauoc,single,0.01,0.7093733214135904,mean,0.01,0.6973634211939862,mean
 tcc,single,0.05,0.32294644381656457,mean,0.01,0.11987606979905895,mean
 tciw,single,0.01,0.7608622000758106,mean,nan,nan,max
 tclw,single,0.01,0.45561297123777855,mean,nan,nan,max
