@@ -1,6 +1,6 @@
 {
-  "title": "era5-ensemble-compression-tolerance",
-  "description": "Analyses for deriving compression error tolerances from ERA5 ensemble data and comparing them with expert-provided tolerances",
+  "title": "Lossy compression error tolerances from the ERA5 uncertainty estimate",
+  "description": "Analyses for deriving compression error tolerances from the ERA5 uncertainty estimate and comparing them with expert-provided tolerances",
   "access_right": "open",
   "creators": [
     {
@@ -33,7 +33,7 @@
     "compression",
     "tolerance",
     "era5",
-    "ensemble"
+    "uncertainty"
   ],
   "related_identifiers": [
     {
