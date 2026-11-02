@@ -3461,6 +3461,6 @@ recommendations:
   requirements:
   - kind: max-pointwise-range-relative-error-bound
     value: 1.5259021896696422e-05
-version: 1.0.0-rc1
+version: 1.0.0-rc2
 metadata:
   commit: f5a9e6395418112ee9930e2b5ac79280b587125c
