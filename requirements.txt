@@ -58,7 +58,7 @@ comm==0.2.2
     # via
     #   ipykernel
     #   ipywidgets
-compression-recommendations==0.1.0b1
+compression-recommendations==0.1.0b2
     # via -r requirements.in
 compression-safeguards==1.0.0rc1
     # via -r requirements.in
@@ -175,7 +175,7 @@ markupsafe==3.0.2
     # via
     #   jinja2
     #   nbconvert
-matplotlib==3.10.0
+matplotlib==3.11.2
     # via -r requirements.in
 matplotlib-inline==0.1.7
     # via

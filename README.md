@@ -1,9 +1,9 @@
-# Lossy compression error tolerances from ERA5 ensemble data
+# Lossy compression error tolerances from the ERA5 uncertainty estimate
 
 [![image](https://img.shields.io/github/actions/workflow/status/juntyr/era5-ensemble-compression-tolerance/ci.yml?branch=main)](https://github.com/juntyr/era5-ensemble-compression-tolerance/actions/workflows/ci.yml?query=branch%3Amain)
 [![image](https://zenodo.org/badge/DOI/10.5281/zenodo.23308181.svg)](https://doi.org/10.5281/zenodo.23308181)
 
-This repository contains analyses for deriving compression error tolerances from ERA5 ensemble data and comparing them with expert-provided tolerances, which are published in the paper "Towards recommendations for lossy compression error tolerances of weather and climate data".
+This repository contains analyses for deriving compression error tolerances from the ERA5 uncertainty estimate and comparing them with expert-provided tolerances, which are published in the paper "Towards recommendations for lossy compression error tolerances of weather and climate data".
 
 
 ## Overview
@@ -18,15 +18,15 @@ The repository is structured as follows (listed in order of execution since some
 - error tolerances
   - `bit-information-recommendations.ipynb` computes pointwise relative error tolerances from ERA5 ensemble means using the bit information method[^bit-information] and writes them to `recommendations/bit-information.yaml`
   - `data-limit-recommendations.ipynb` guesses data limits from ERA5 ensemble means and writes them to `recommendations/data-limits.yaml`
-  - `ensemble-spread-recommendations.ipynb` computes pointwise absolute/relative/quadratic error tolerances from ERA5 ensemble mean-spread pairs and writes them to `recommendations/ensemble-spread.yaml`
   - `grib-linear-packing-recommendations.ipynb` computes pre-existing range-relative error tolerances caused by linear packing in GRIB from a small sample of ERA5 reanalysis and ensemble means and spreads and writes them to `recommendations/grib-linear-packing.yaml`
+  - `uncertainty-recommendations.ipynb` computes pointwise absolute/relative/quadratic error tolerances from ERA5 uncertainty mean-spread pairs and writes them to `recommendations/uncertainty.yaml`
 - comparisons
   - `range.ipynb` computes the data ranges from ERA5 ensemble means and writes them to `expert-quantile-(single|pressure).csv`
-  - `compression-ratio.ipynb` computes compression ratios for the ensemble-derived error tolerances and writes them to `compression-ratio-(single|pressure).csv`
-  - `expert-quantile.ipynb` computes the quantiles of the expert tolerances amongst the ERA5 ensemble spreads and writes them to `expert-quantile-(single|pressure).csv`
+  - `compression-ratio.ipynb` computes compression ratios for the uncertainty-derived error tolerances and writes them to `compression-ratio-(single|pressure).csv`
+  - `expert-quantile.ipynb` computes the quantiles of the expert tolerances amongst the ERA5 uncertainty spreads and writes them to `expert-quantile-(single|pressure).csv`
 - plotting
-  - `compression-ratio-plots.ipynb` plots the compression ratios for the ensemble-derived error tolerances and writes them to `plots/compression/*.pdf`
-  - `mean-spread-plots.ipynb` plots the ERA5 ensemble mean-spread distributions and derived error tolerances and writes them to `plots/(single|pressure)/*.pdf` and `plots/legend.pdf`
+  - `compression-ratio-plots.ipynb` plots the compression ratios for the uncertainty-derived error tolerances and writes them to `plots/compression/*.pdf`
+  - `mean-spread-plots.ipynb` plots the ERA5 uncertainty estimate mean-spread distributions and derived error tolerances and writes them to `plots/(single|pressure)/*.pdf` and `plots/legend.pdf`
   - `quantile-plots.ipynb` plots the expert quantiles and error tolerance comparisons and correlations and writes them to `plots/quantiles/*.pdf`
   - `plots.zip` contains all pre-computed plots
 
@@ -37,7 +37,7 @@ The repository is structured as follows (listed in order of execution since some
 
 Please cite this work as follows:
 
-> Tyree, J., Faghih-Naini, S., Klöwer, M., Dueben, P., and Järvinen, H. (2026). era5-ensemble-compression-tolerance. *Zenodo*. Available from: [doi:10.5281/zenodo.23308181](https://doi.org/10.5281/zenodo.23308181).
+> Tyree, J., Faghih-Naini, S., Klöwer, M., Dueben, P., and Järvinen, H. (2026). Lossy compression error tolerances from the ERA5 uncertainty estimate. *Zenodo*. Available from: [doi:10.5281/zenodo.23308181](https://doi.org/10.5281/zenodo.23308181).
 
 Please also refer to the [CITATION.cff](CITATION.cff) file and refer to <https://citation-file-format.github.io> to extract the citation in a format of your choice.
 

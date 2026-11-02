@@ -1,11 +1,11 @@
 cdsapi ~= 0.7.0
-compression-recommendations == 0.1.0b1
+compression-recommendations == 0.1.0b2
 compression-safeguards == 1.0.0rc1
 dask ~= 2024.12.0
 eccodes ~= 2.39.0
 ipywidgets ~= 8.1.0
 jupyterlab ~= 4.3.0
-matplotlib ~= 3.10.0
+matplotlib ~= 3.11.0
 netCDF4 ~= 1.7.0
 numcodecs-combinators ~= 0.2.15
 numcodecs-shuffle ~= 0.1.0
